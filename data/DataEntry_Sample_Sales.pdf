@@ -1,0 +1,354 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 6 /Kids [ 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R ] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Length 6196 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (Sales Transactions Dataset) Tj
+1 0 0 1 40 728 Tm () Tj
+1 0 0 1 40 714 Tm (Order_ID | Order_Date | Customer_Name       | Product_Name          | Quantity | Unit_Price | Total_Amount) Tj
+1 0 0 1 40 700 Tm (---------+------------+---------------------+-----------------------+----------+------------+-------------) Tj
+1 0 0 1 40 686 Tm (ORD0001  | 2025-07-04 | Joseph Sanchez      | Coffee Table          | 2        | 195.76     | 391.52      ) Tj
+1 0 0 1 40 672 Tm (ORD0002  | 2025-06-07 | Alexander Moore     | Notebook Pack         | 2        | 99.87      | 199.74      ) Tj
+1 0 0 1 40 658 Tm (ORD0003  | 2025-10-11 | Alexander Wright    | Office Chair          | 6        | 123.31     | 739.86      ) Tj
+1 0 0 1 40 644 Tm (ORD0004  | 2024-09-01 | Abigail Hall        | Wireless Mouse        | 7        | 221.69     | 1551.83     ) Tj
+1 0 0 1 40 630 Tm (ORD0005  | 2025-09-18 | Mia Garcia          | Coffee Table          | 7        | 43.64      | 305.48      ) Tj
+1 0 0 1 40 616 Tm (ORD0006  | 2025-12-25 | Elijah Martin       | LED Lamp              | 3        | 44.64      | 133.92      ) Tj
+1 0 0 1 40 602 Tm (ORD0007  | 2024-12-21 | Joseph Smith        | Smartwatch            | 3        | 153.96     | 461.88      ) Tj
+1 0 0 1 40 588 Tm (ORD0008  | 2024-05-09 | Grace Campbell      | USB-C Hub             | 5        | 58.42      | 292.10      ) Tj
+1 0 0 1 40 574 Tm (ORD0009  | 2025-03-15 | David Davis         | USB-C Hub             | 1        | 107.15     | 107.15      ) Tj
+1 0 0 1 40 560 Tm (ORD0010  | 2025-08-13 | Grace Jones         | Office Chair          | 5        | 216.57     | 1082.85     ) Tj
+1 0 0 1 40 546 Tm (ORD0011  | 2025-05-26 | Hannah Robinson     | Coffee Table          | 9        | 114.44     | 1029.96     ) Tj
+1 0 0 1 40 532 Tm (ORD0012  | 2024-04-15 | Emma White          | Coffee Table          | 3        | 83.98      | 251.94      ) Tj
+1 0 0 1 40 518 Tm (ORD0013  | 2025-06-05 | Samuel Campbell     | Wireless Mouse        | 2        | 76.24      | 152.48      ) Tj
+1 0 0 1 40 504 Tm (ORD0014  | 2025-01-07 | Oliver Smith        | Air Purifier          | 4        | 23.33      | 93.32       ) Tj
+1 0 0 1 40 490 Tm (ORD0015  | 2025-11-02 | Alexander Lopez     | Air Purifier          | 1        | 170.33     | 170.33      ) Tj
+1 0 0 1 40 476 Tm (ORD0016  | 2024-11-23 | Isabella Lee        | USB-C Hub             | 4        | 130.71     | 522.84      ) Tj
+1 0 0 1 40 462 Tm (ORD0017  | 2025-11-20 | James Torres        | Wireless Mouse        | 6        | 44.63      | 267.78      ) Tj
+1 0 0 1 40 448 Tm (ORD0018  | 2025-02-14 | Olivia Anderson     | Office Chair          | 9        | 294.61     | 2651.49     ) Tj
+1 0 0 1 40 434 Tm (ORD0019  | 2025-07-20 | Victoria Jackson    | Whiteboard Marker Set | 5        | 104.92     | 524.60      ) Tj
+1 0 0 1 40 420 Tm (ORD0020  | 2024-11-07 | Liam White          | Coffee Table          | 4        | 94.56      | 378.24      ) Tj
+1 0 0 1 40 406 Tm (ORD0021  | 2025-05-20 | Mia Robinson        | Notebook Pack         | 6        | 181.59     | 1089.54     ) Tj
+1 0 0 1 40 392 Tm (ORD0022  | 2025-02-23 | David Wright        | Wireless Mouse        | 4        | 53.66      | 214.64      ) Tj
+1 0 0 1 40 378 Tm (ORD0023  | 2025-12-11 | Isabella Wright     | Wireless Mouse        | 6        | 194.42     | 1166.52     ) Tj
+1 0 0 1 40 364 Tm (ORD0024  | 2024-11-10 | Charlotte Smith     | Office Chair          | 7        | 256.21     | 1793.47     ) Tj
+1 0 0 1 40 350 Tm (ORD0025  | 2024-03-02 | Sophia King         | LED Lamp              | 4        | 131.75     | 527.00      ) Tj
+1 0 0 1 40 336 Tm (ORD0026  | 2024-08-25 | John Moore          | Smartwatch            | 2        | 22.73      | 45.46       ) Tj
+1 0 0 1 40 322 Tm (ORD0027  | 2024-03-27 | Camila Hall         | Coffee Table          | 6        | 142.95     | 857.70      ) Tj
+1 0 0 1 40 308 Tm (ORD0028  | 2025-02-07 | Benjamin Allen      | Office Chair          | 3        | 194.79     | 584.37      ) Tj
+1 0 0 1 40 294 Tm (ORD0029  | 2024-05-13 | Mateo Torres        | Notebook Pack         | 1        | 136.15     | 136.15      ) Tj
+1 0 0 1 40 280 Tm (ORD0030  | 2025-02-06 | Evelyn Taylor       | Standing Desk         | 6        | 278.55     | 1671.30     ) Tj
+1 0 0 1 40 266 Tm (ORD0031  | 2024-07-26 | Aria Lewis          | LED Lamp              | 5        | 77.75      | 388.75      ) Tj
+1 0 0 1 40 252 Tm (ORD0032  | 2024-04-18 | Luke Roberts        | LED Lamp              | 10       | 41.60      | 416.00      ) Tj
+1 0 0 1 40 238 Tm (ORD0033  | 2025-07-02 | Scarlett Robinson   | Standing Desk         | 6        | 127.89     | 767.34      ) Tj
+1 0 0 1 40 224 Tm (ORD0034  | 2024-09-28 | Luke Wilson         | Office Chair          | 8        | 99.41      | 795.28      ) Tj
+1 0 0 1 40 210 Tm (ORD0035  | 2025-12-14 | William Hernandez   | Coffee Table          | 5        | 249.65     | 1248.25     ) Tj
+1 0 0 1 40 196 Tm (ORD0036  | 2025-12-29 | Oliver Wilson       | Notebook Pack         | 6        | 53.01      | 318.06      ) Tj
+1 0 0 1 40 182 Tm (ORD0037  | 2024-11-02 | Mila Sanchez        | USB-C Hub             | 9        | 24.20      | 217.80      ) Tj
+1 0 0 1 40 168 Tm (ORD0038  | 2025-07-23 | Olivia Johnson      | Smartwatch            | 7        | 257.83     | 1804.81     ) Tj
+1 0 0 1 40 154 Tm (ORD0039  | 2024-05-23 | Mia Miller          | Office Chair          | 8        | 39.55      | 316.40      ) Tj
+1 0 0 1 40 140 Tm (ORD0040  | 2025-02-14 | Liam Brown          | Standing Desk         | 4        | 47.91      | 191.64      ) Tj
+1 0 0 1 40 126 Tm (ORD0041  | 2024-09-22 | Samuel Green        | Office Chair          | 2        | 178.87     | 357.74      ) Tj
+1 0 0 1 40 112 Tm (ORD0042  | 2025-03-30 | Noah Jones          | LED Lamp              | 4        | 271.72     | 1086.88     ) Tj
+1 0 0 1 40 98 Tm (ORD0043  | 2025-04-17 | William Perez       | Wireless Mouse        | 2        | 22.38      | 44.76       ) Tj
+1 0 0 1 40 84 Tm (ORD0044  | 2025-02-08 | Emma Torres         | Whiteboard Marker Set | 7        | 248.29     | 1738.03     ) Tj
+1 0 0 1 40 70 Tm (ORD0045  | 2024-08-07 | Noah Harris         | LED Lamp              | 7        | 60.11      | 420.77      ) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 6382 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (ORD0046  | 2024-02-05 | Harper Moore        | Coffee Table          | 8        | 266.19     | 2129.52     ) Tj
+1 0 0 1 40 728 Tm (ORD0047  | 2025-05-25 | Jack Flores         | Air Purifier          | 4        | 197.71     | 790.84      ) Tj
+1 0 0 1 40 714 Tm (ORD0048  | 2025-01-27 | Stella Walker       | LED Lamp              | 1        | 35.44      | 35.44       ) Tj
+1 0 0 1 40 700 Tm (ORD0049  | 2025-07-10 | Camila Gonzalez     | Wireless Mouse        | 9        | 82.25      | 740.25      ) Tj
+1 0 0 1 40 686 Tm (ORD0050  | 2025-05-11 | Nora Rivera         | Standing Desk         | 6        | 149.11     | 894.66      ) Tj
+1 0 0 1 40 672 Tm (ORD0051  | 2024-07-03 | Leo Allen           | Wireless Mouse        | 6        | 122.63     | 735.78      ) Tj
+1 0 0 1 40 658 Tm (ORD0052  | 2024-10-14 | Aria Hill           | Wireless Mouse        | 4        | 18.50      | 74.00       ) Tj
+1 0 0 1 40 644 Tm (ORD0053  | 2024-08-26 | Zoey King           | LED Lamp              | 6        | 232.38     | 1394.28     ) Tj
+1 0 0 1 40 630 Tm (ORD0054  | 2024-02-27 | Benjamin Thomas     | Notebook Pack         | 4        | 87.29      | 349.16      ) Tj
+1 0 0 1 40 616 Tm (ORD0055  | 2024-06-26 | Leo Harris          | LED Lamp              | 6        | 281.21     | 1687.26     ) Tj
+1 0 0 1 40 602 Tm (ORD0056  | 2025-12-15 | Mia Nguyen          | Standing Desk         | 6        | 243.80     | 1462.80     ) Tj
+1 0 0 1 40 588 Tm (ORD0057  | 2025-07-31 | Mateo Johnson       | LED Lamp              | 6        | 284.79     | 1708.74     ) Tj
+1 0 0 1 40 574 Tm (ORD0058  | 2024-06-28 | Leo Gonzalez        | Whiteboard Marker Set | 8        | 167.22     | 1337.76     ) Tj
+1 0 0 1 40 560 Tm (ORD0059  | 2024-08-12 | Oliver Garcia       | Wireless Mouse        | 1        | 77.46      | 77.46       ) Tj
+1 0 0 1 40 546 Tm (ORD0060  | 2025-09-20 | Grace Walker        | Notebook Pack         | 1        | 106.20     | 106.20      ) Tj
+1 0 0 1 40 532 Tm (ORD0061  | 2024-11-27 | Henry Perez         | Wireless Mouse        | 3        | 276.45     | 829.35      ) Tj
+1 0 0 1 40 518 Tm (ORD0062  | 2024-05-25 | Noah Martinez       | Office Chair          | 10       | 214.36     | 2143.60     ) Tj
+1 0 0 1 40 504 Tm (ORD0063  | 2025-11-09 | Grace White         | Air Purifier          | 2        | 118.34     | 236.68      ) Tj
+1 0 0 1 40 490 Tm (ORD0064  | 2024-05-19 | Mateo Miller        | LED Lamp              | 6        | 97.51      | 585.06      ) Tj
+1 0 0 1 40 476 Tm (ORD0065  | 2024-06-27 | David Ramirez       | Smartwatch            | 8        | 198.26     | 1586.08     ) Tj
+1 0 0 1 40 462 Tm (ORD0066  | 2025-08-26 | Joseph Flores       | LED Lamp              | 6        | 74.74      | 448.44      ) Tj
+1 0 0 1 40 448 Tm (ORD0067  | 2024-01-02 | Nora Martin         | Coffee Table          | 5        | 46.93      | 234.65      ) Tj
+1 0 0 1 40 434 Tm (ORD0068  | 2025-09-08 | Sofia Roberts       | Standing Desk         | 10       | 19.39      | 193.90      ) Tj
+1 0 0 1 40 420 Tm (ORD0069  | 2025-05-23 | Jack Anderson       | LED Lamp              | 10       | 40.19      | 401.90      ) Tj
+1 0 0 1 40 406 Tm (ORD0070  | 2024-11-23 | Charlotte Mitchell  | LED Lamp              | 2        | 79.02      | 158.04      ) Tj
+1 0 0 1 40 392 Tm (ORD0071  | 2024-09-28 | Owen Garcia         | Notebook Pack         | 6        | 139.52     | 837.12      ) Tj
+1 0 0 1 40 378 Tm (ORD0072  | 2024-04-20 | Mia Hall            | Wireless Mouse        | 2        | 111.64     | 223.28      ) Tj
+1 0 0 1 40 364 Tm (ORD0073  | 2024-06-19 | Elijah Harris       | Air Purifier          | 8        | 222.45     | 1779.60     ) Tj
+1 0 0 1 40 350 Tm (ORD0074  | 2024-04-13 | Hannah Harris       | Whiteboard Marker Set | 6        | 168.35     | 1010.10     ) Tj
+1 0 0 1 40 336 Tm (ORD0075  | 2024-03-16 | Leo Adams           | Wireless Mouse        | 4        | 57.17      | 228.68      ) Tj
+1 0 0 1 40 322 Tm (ORD0076  | 2024-04-17 | Evelyn Johnson      | Office Chair          | 6        | 85.73      | 514.38      ) Tj
+1 0 0 1 40 308 Tm (ORD0077  | 2024-03-17 | Charlotte Hernandez | Smartwatch            | 7        | 56.66      | 396.62      ) Tj
+1 0 0 1 40 294 Tm (ORD0078  | 2025-05-09 | William Perez       | Wireless Mouse        | 10       | 295.73     | 2957.30     ) Tj
+1 0 0 1 40 280 Tm (ORD0079  | 2025-03-20 | Layla Adams         | LED Lamp              | 3        | 186.12     | 558.36      ) Tj
+1 0 0 1 40 266 Tm (ORD0080  | 2024-07-13 | Elijah Miller       | Air Purifier          | 6        | 69.61      | 417.66      ) Tj
+1 0 0 1 40 252 Tm (ORD0081  | 2024-10-15 | Joseph Scott        | USB-C Hub             | 9        | 86.93      | 782.37      ) Tj
+1 0 0 1 40 238 Tm (ORD0082  | 2025-07-16 | Mia Miller          | Whiteboard Marker Set | 1        | 123.94     | 123.94      ) Tj
+1 0 0 1 40 224 Tm (ORD0083  | 2024-03-30 | Alexander Brown     | USB-C Hub             | 6        | 11.11      | 66.66       ) Tj
+1 0 0 1 40 210 Tm (ORD0084  | 2024-04-09 | Aiden Green         | Wireless Mouse        | 10       | 149.30     | 1493.00     ) Tj
+1 0 0 1 40 196 Tm (ORD0085  | 2025-04-29 | Sophia Hernandez    | Office Chair          | 5        | 293.35     | 1466.75     ) Tj
+1 0 0 1 40 182 Tm (ORD0086  | 2025-11-07 | Abigail Sanchez     | USB-C Hub             | 8        | 151.84     | 1214.72     ) Tj
+1 0 0 1 40 168 Tm (ORD0087  | 2025-01-14 | William Adams       | Air Purifier          | 9        | 122.38     | 1101.42     ) Tj
+1 0 0 1 40 154 Tm (ORD0088  | 2025-03-26 | Ella Lopez          | Whiteboard Marker Set | 8        | 22.94      | 183.52      ) Tj
+1 0 0 1 40 140 Tm (ORD0089  | 2024-06-03 | Amelia Anderson     | Office Chair          | 5        | 173.63     | 868.15      ) Tj
+1 0 0 1 40 126 Tm (ORD0090  | 2025-02-27 | William Nelson      | Coffee Table          | 6        | 244.37     | 1466.22     ) Tj
+1 0 0 1 40 112 Tm (ORD0091  | 2025-06-19 | Isabella Scott      | Air Purifier          | 1        | 253.83     | 253.83      ) Tj
+1 0 0 1 40 98 Tm (ORD0092  | 2024-08-29 | Chloe Baker         | Whiteboard Marker Set | 8        | 176.09     | 1408.72     ) Tj
+1 0 0 1 40 84 Tm (ORD0093  | 2024-02-05 | Abigail Garcia      | Smartwatch            | 7        | 271.81     | 1902.67     ) Tj
+1 0 0 1 40 70 Tm (ORD0094  | 2025-09-27 | Leo King            | LED Lamp              | 10       | 206.49     | 2064.90     ) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 6382 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (ORD0095  | 2024-06-20 | Lucas Carter        | Notebook Pack         | 8        | 60.13      | 481.04      ) Tj
+1 0 0 1 40 728 Tm (ORD0096  | 2025-11-30 | Ava Rodriguez       | Air Purifier          | 1        | 132.78     | 132.78      ) Tj
+1 0 0 1 40 714 Tm (ORD0097  | 2024-09-21 | Ava Green           | Standing Desk         | 3        | 251.89     | 755.67      ) Tj
+1 0 0 1 40 700 Tm (ORD0098  | 2025-02-10 | David Jones         | Smartwatch            | 2        | 122.55     | 245.10      ) Tj
+1 0 0 1 40 686 Tm (ORD0099  | 2024-01-13 | Aria Moore          | Coffee Table          | 9        | 142.87     | 1285.83     ) Tj
+1 0 0 1 40 672 Tm (ORD0100  | 2024-06-02 | Mateo King          | LED Lamp              | 7        | 42.63      | 298.41      ) Tj
+1 0 0 1 40 658 Tm (ORD0101  | 2024-04-12 | Leo Nguyen          | Office Chair          | 10       | 229.93     | 2299.30     ) Tj
+1 0 0 1 40 644 Tm (ORD0102  | 2025-07-02 | Leo Roberts         | Standing Desk         | 2        | 237.87     | 475.74      ) Tj
+1 0 0 1 40 630 Tm (ORD0103  | 2025-08-08 | Camila Taylor       | Coffee Table          | 7        | 199.89     | 1399.23     ) Tj
+1 0 0 1 40 616 Tm (ORD0104  | 2024-05-27 | Zoey Williams       | Coffee Table          | 3        | 89.87      | 269.61      ) Tj
+1 0 0 1 40 602 Tm (ORD0105  | 2024-12-05 | Sebastian Baker     | Notebook Pack         | 7        | 21.25      | 148.75      ) Tj
+1 0 0 1 40 588 Tm (ORD0106  | 2025-01-16 | Elijah Mitchell     | Wireless Mouse        | 8        | 277.04     | 2216.32     ) Tj
+1 0 0 1 40 574 Tm (ORD0107  | 2025-05-18 | Charlotte Martin    | Office Chair          | 5        | 91.30      | 456.50      ) Tj
+1 0 0 1 40 560 Tm (ORD0108  | 2025-03-29 | Isabella Rodriguez  | Standing Desk         | 5        | 292.52     | 1462.60     ) Tj
+1 0 0 1 40 546 Tm (ORD0109  | 2024-04-01 | Harper Campbell     | Notebook Pack         | 7        | 185.44     | 1298.08     ) Tj
+1 0 0 1 40 532 Tm (ORD0110  | 2025-06-12 | Scarlett Wilson     | Standing Desk         | 7        | 224.87     | 1574.09     ) Tj
+1 0 0 1 40 518 Tm (ORD0111  | 2025-12-27 | Elijah Allen        | Smartwatch            | 3        | 29.03      | 87.09       ) Tj
+1 0 0 1 40 504 Tm (ORD0112  | 2024-01-30 | Sofia Rodriguez     | LED Lamp              | 9        | 265.01     | 2385.09     ) Tj
+1 0 0 1 40 490 Tm (ORD0113  | 2025-04-12 | Ava Gonzalez        | Wireless Mouse        | 1        | 82.35      | 82.35       ) Tj
+1 0 0 1 40 476 Tm (ORD0114  | 2025-04-20 | Ella Rivera         | Smartwatch            | 4        | 89.45      | 357.80      ) Tj
+1 0 0 1 40 462 Tm (ORD0115  | 2024-09-04 | Sofia Green         | Standing Desk         | 2        | 207.54     | 415.08      ) Tj
+1 0 0 1 40 448 Tm (ORD0116  | 2025-04-30 | Hannah Hill         | Coffee Table          | 8        | 61.50      | 492.00      ) Tj
+1 0 0 1 40 434 Tm (ORD0117  | 2024-09-21 | Stella Thompson     | Office Chair          | 6        | 57.42      | 344.52      ) Tj
+1 0 0 1 40 420 Tm (ORD0118  | 2025-08-08 | Evelyn Johnson      | Notebook Pack         | 7        | 24.40      | 170.80      ) Tj
+1 0 0 1 40 406 Tm (ORD0119  | 2024-10-02 | Isabella Adams      | Air Purifier          | 4        | 206.53     | 826.12      ) Tj
+1 0 0 1 40 392 Tm (ORD0120  | 2024-05-15 | Lily Johnson        | LED Lamp              | 1        | 147.49     | 147.49      ) Tj
+1 0 0 1 40 378 Tm (ORD0121  | 2024-11-08 | Sebastian Smith     | USB-C Hub             | 4        | 83.19      | 332.76      ) Tj
+1 0 0 1 40 364 Tm (ORD0122  | 2024-08-11 | Layla Harris        | Whiteboard Marker Set | 6        | 143.11     | 858.66      ) Tj
+1 0 0 1 40 350 Tm (ORD0123  | 2025-02-10 | Abigail Baker       | Coffee Table          | 9        | 249.05     | 2241.45     ) Tj
+1 0 0 1 40 336 Tm (ORD0124  | 2025-01-18 | Benjamin Smith      | Smartwatch            | 9        | 299.83     | 2698.47     ) Tj
+1 0 0 1 40 322 Tm (ORD0125  | 2025-12-01 | Theodore Hill       | Office Chair          | 10       | 91.98      | 919.80      ) Tj
+1 0 0 1 40 308 Tm (ORD0126  | 2025-10-17 | Zoey Jones          | Standing Desk         | 6        | 296.62     | 1779.72     ) Tj
+1 0 0 1 40 294 Tm (ORD0127  | 2025-06-13 | Harper Taylor       | Notebook Pack         | 5        | 64.62      | 323.10      ) Tj
+1 0 0 1 40 280 Tm (ORD0128  | 2025-11-28 | Elijah Hill         | LED Lamp              | 7        | 201.55     | 1410.85     ) Tj
+1 0 0 1 40 266 Tm (ORD0129  | 2024-09-22 | David Johnson       | Air Purifier          | 8        | 299.27     | 2394.16     ) Tj
+1 0 0 1 40 252 Tm (ORD0130  | 2025-08-08 | Sofia Harris        | Notebook Pack         | 1        | 179.08     | 179.08      ) Tj
+1 0 0 1 40 238 Tm (ORD0131  | 2025-10-15 | Charlotte Campbell  | Whiteboard Marker Set | 4        | 209.03     | 836.12      ) Tj
+1 0 0 1 40 224 Tm (ORD0132  | 2024-06-23 | Aiden Thompson      | Smartwatch            | 9        | 97.06      | 873.54      ) Tj
+1 0 0 1 40 210 Tm (ORD0133  | 2024-09-21 | Olivia Jackson      | Smartwatch            | 2        | 146.53     | 293.06      ) Tj
+1 0 0 1 40 196 Tm (ORD0134  | 2024-08-15 | Matthew Lopez       | Standing Desk         | 6        | 199.79     | 1198.74     ) Tj
+1 0 0 1 40 182 Tm (ORD0135  | 2024-12-05 | Isabella Mitchell   | Standing Desk         | 5        | 131.94     | 659.70      ) Tj
+1 0 0 1 40 168 Tm (ORD0136  | 2024-04-30 | Amelia Nguyen       | Whiteboard Marker Set | 5        | 144.49     | 722.45      ) Tj
+1 0 0 1 40 154 Tm (ORD0137  | 2025-09-27 | Elijah Green        | Office Chair          | 10       | 178.29     | 1782.90     ) Tj
+1 0 0 1 40 140 Tm (ORD0138  | 2025-11-28 | Zoey Gonzalez       | Air Purifier          | 9        | 44.75      | 402.75      ) Tj
+1 0 0 1 40 126 Tm (ORD0139  | 2024-06-03 | Grace Martin        | LED Lamp              | 7        | 25.68      | 179.76      ) Tj
+1 0 0 1 40 112 Tm (ORD0140  | 2025-04-13 | Ava Perez           | LED Lamp              | 7        | 296.29     | 2074.03     ) Tj
+1 0 0 1 40 98 Tm (ORD0141  | 2025-05-14 | Aria Rivera         | Standing Desk         | 3        | 235.89     | 707.67      ) Tj
+1 0 0 1 40 84 Tm (ORD0142  | 2024-01-05 | Owen Lopez          | Whiteboard Marker Set | 6        | 194.00     | 1164.00     ) Tj
+1 0 0 1 40 70 Tm (ORD0143  | 2024-06-11 | Harper Wilson       | Whiteboard Marker Set | 3        | 177.12     | 531.36      ) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 6382 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (ORD0144  | 2025-03-20 | Matthew Roberts     | Air Purifier          | 2        | 47.53      | 95.06       ) Tj
+1 0 0 1 40 728 Tm (ORD0145  | 2024-02-08 | Sofia Ramirez       | Smartwatch            | 8        | 121.16     | 969.28      ) Tj
+1 0 0 1 40 714 Tm (ORD0146  | 2024-11-25 | Ava Campbell        | Smartwatch            | 6        | 285.52     | 1713.12     ) Tj
+1 0 0 1 40 700 Tm (ORD0147  | 2024-09-11 | Ava Johnson         | Notebook Pack         | 1        | 191.74     | 191.74      ) Tj
+1 0 0 1 40 686 Tm (ORD0148  | 2025-01-27 | Joseph Thompson     | Smartwatch            | 5        | 47.39      | 236.95      ) Tj
+1 0 0 1 40 672 Tm (ORD0149  | 2024-02-16 | Mateo Martin        | USB-C Hub             | 3        | 28.93      | 86.79       ) Tj
+1 0 0 1 40 658 Tm (ORD0150  | 2024-12-11 | Evelyn Robinson     | Air Purifier          | 9        | 182.95     | 1646.55     ) Tj
+1 0 0 1 40 644 Tm (ORD0151  | 2025-05-16 | Samuel Rodriguez    | Standing Desk         | 6        | 298.88     | 1793.28     ) Tj
+1 0 0 1 40 630 Tm (ORD0152  | 2025-02-17 | Matthew Gonzalez    | Wireless Mouse        | 3        | 284.94     | 854.82      ) Tj
+1 0 0 1 40 616 Tm (ORD0153  | 2024-01-23 | Isabella Anderson   | Coffee Table          | 3        | 71.25      | 213.75      ) Tj
+1 0 0 1 40 602 Tm (ORD0154  | 2025-10-28 | Lily Hernandez      | Wireless Mouse        | 2        | 116.31     | 232.62      ) Tj
+1 0 0 1 40 588 Tm (ORD0155  | 2025-09-30 | Nora Green          | Wireless Mouse        | 5        | 233.66     | 1168.30     ) Tj
+1 0 0 1 40 574 Tm (ORD0156  | 2024-01-21 | Sebastian Brown     | Wireless Mouse        | 2        | 199.53     | 399.06      ) Tj
+1 0 0 1 40 560 Tm (ORD0157  | 2024-05-06 | Joseph Davis        | Smartwatch            | 7        | 138.85     | 971.95      ) Tj
+1 0 0 1 40 546 Tm (ORD0158  | 2025-12-03 | Amelia Walker       | Wireless Mouse        | 3        | 69.59      | 208.77      ) Tj
+1 0 0 1 40 532 Tm (ORD0159  | 2024-10-03 | Abigail Clark       | Coffee Table          | 2        | 202.12     | 404.24      ) Tj
+1 0 0 1 40 518 Tm (ORD0160  | 2024-04-17 | Sebastian Hall      | Smartwatch            | 3        | 131.46     | 394.38      ) Tj
+1 0 0 1 40 504 Tm (ORD0161  | 2024-04-18 | David Flores        | Whiteboard Marker Set | 2        | 91.98      | 183.96      ) Tj
+1 0 0 1 40 490 Tm (ORD0162  | 2025-06-19 | Ava Hill            | Notebook Pack         | 4        | 235.61     | 942.44      ) Tj
+1 0 0 1 40 476 Tm (ORD0163  | 2024-02-10 | Mila Rivera         | Smartwatch            | 7        | 95.65      | 669.55      ) Tj
+1 0 0 1 40 462 Tm (ORD0164  | 2024-01-03 | Hannah Wilson       | Wireless Mouse        | 8        | 105.88     | 847.04      ) Tj
+1 0 0 1 40 448 Tm (ORD0165  | 2025-11-16 | Aiden Garcia        | Whiteboard Marker Set | 2        | 252.22     | 504.44      ) Tj
+1 0 0 1 40 434 Tm (ORD0166  | 2024-04-13 | Alexander Garcia    | USB-C Hub             | 9        | 31.76      | 285.84      ) Tj
+1 0 0 1 40 420 Tm (ORD0167  | 2024-10-30 | Theodore Anderson   | USB-C Hub             | 8        | 296.71     | 2373.68     ) Tj
+1 0 0 1 40 406 Tm (ORD0168  | 2024-02-10 | Victoria Brown      | USB-C Hub             | 2        | 245.82     | 491.64      ) Tj
+1 0 0 1 40 392 Tm (ORD0169  | 2024-04-28 | Ella Baker          | Office Chair          | 6        | 133.54     | 801.24      ) Tj
+1 0 0 1 40 378 Tm (ORD0170  | 2025-11-10 | Matthew Williams    | LED Lamp              | 1        | 257.08     | 257.08      ) Tj
+1 0 0 1 40 364 Tm (ORD0171  | 2024-10-01 | Charlotte Thompson  | Office Chair          | 8        | 286.98     | 2295.84     ) Tj
+1 0 0 1 40 350 Tm (ORD0172  | 2025-02-13 | Ella Perez          | Whiteboard Marker Set | 3        | 43.01      | 129.03      ) Tj
+1 0 0 1 40 336 Tm (ORD0173  | 2025-10-26 | Harper Harris       | LED Lamp              | 8        | 241.97     | 1935.76     ) Tj
+1 0 0 1 40 322 Tm (ORD0174  | 2024-06-12 | Lucas Rodriguez     | Office Chair          | 1        | 294.66     | 294.66      ) Tj
+1 0 0 1 40 308 Tm (ORD0175  | 2025-11-25 | Camila Nguyen       | Whiteboard Marker Set | 8        | 242.66     | 1941.28     ) Tj
+1 0 0 1 40 294 Tm (ORD0176  | 2025-09-18 | Olivia Flores       | Wireless Mouse        | 7        | 235.96     | 1651.72     ) Tj
+1 0 0 1 40 280 Tm (ORD0177  | 2025-05-14 | Samuel Campbell     | Office Chair          | 3        | 150.09     | 450.27      ) Tj
+1 0 0 1 40 266 Tm (ORD0178  | 2025-11-01 | Camila Lewis        | Standing Desk         | 1        | 28.37      | 28.37       ) Tj
+1 0 0 1 40 252 Tm (ORD0179  | 2025-08-13 | Liam Rivera         | Coffee Table          | 9        | 232.58     | 2093.22     ) Tj
+1 0 0 1 40 238 Tm (ORD0180  | 2025-12-05 | Isabella Nelson     | Coffee Table          | 6        | 160.54     | 963.24      ) Tj
+1 0 0 1 40 224 Tm (ORD0181  | 2025-11-10 | Benjamin Ramirez    | Air Purifier          | 4        | 149.76     | 599.04      ) Tj
+1 0 0 1 40 210 Tm (ORD0182  | 2025-10-20 | Alexander Scott     | LED Lamp              | 10       | 25.82      | 258.20      ) Tj
+1 0 0 1 40 196 Tm (ORD0183  | 2024-03-17 | Lily Walker         | Whiteboard Marker Set | 8        | 262.13     | 2097.04     ) Tj
+1 0 0 1 40 182 Tm (ORD0184  | 2024-02-21 | Aria Thomas         | Smartwatch            | 6        | 291.34     | 1748.04     ) Tj
+1 0 0 1 40 168 Tm (ORD0185  | 2024-08-28 | Isabella Scott      | Office Chair          | 7        | 126.95     | 888.65      ) Tj
+1 0 0 1 40 154 Tm (ORD0186  | 2025-05-25 | Victoria Lewis      | Whiteboard Marker Set | 10       | 139.95     | 1399.50     ) Tj
+1 0 0 1 40 140 Tm (ORD0187  | 2024-01-19 | Aria Davis          | Office Chair          | 8        | 226.12     | 1808.96     ) Tj
+1 0 0 1 40 126 Tm (ORD0188  | 2024-01-01 | Sofia Clark         | Office Chair          | 1        | 171.57     | 171.57      ) Tj
+1 0 0 1 40 112 Tm (ORD0189  | 2025-07-29 | Sebastian Flores    | Notebook Pack         | 5        | 268.13     | 1340.65     ) Tj
+1 0 0 1 40 98 Tm (ORD0190  | 2025-01-07 | Theodore Nelson     | Wireless Mouse        | 8        | 285.60     | 2284.80     ) Tj
+1 0 0 1 40 84 Tm (ORD0191  | 2025-09-26 | Isabella Robinson   | Coffee Table          | 6        | 172.44     | 1034.64     ) Tj
+1 0 0 1 40 70 Tm (ORD0192  | 2024-04-26 | Zoey Rivera         | Office Chair          | 6        | 217.61     | 1305.66     ) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 6382 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (ORD0193  | 2024-12-29 | Matthew Nelson      | USB-C Hub             | 4        | 10.64      | 42.56       ) Tj
+1 0 0 1 40 728 Tm (ORD0194  | 2024-02-16 | Stella King         | LED Lamp              | 6        | 213.61     | 1281.66     ) Tj
+1 0 0 1 40 714 Tm (ORD0195  | 2025-09-17 | Hannah Rodriguez    | Notebook Pack         | 7        | 41.02      | 287.14      ) Tj
+1 0 0 1 40 700 Tm (ORD0196  | 2024-07-14 | Ava Davis           | Standing Desk         | 7        | 72.52      | 507.64      ) Tj
+1 0 0 1 40 686 Tm (ORD0197  | 2025-10-10 | Benjamin Carter     | Coffee Table          | 7        | 23.49      | 164.43      ) Tj
+1 0 0 1 40 672 Tm (ORD0198  | 2025-08-26 | Lucas Roberts       | Smartwatch            | 8        | 142.64     | 1141.12     ) Tj
+1 0 0 1 40 658 Tm (ORD0199  | 2024-02-19 | Henry Young         | Smartwatch            | 1        | 163.81     | 163.81      ) Tj
+1 0 0 1 40 644 Tm (ORD0200  | 2024-06-30 | Layla Nguyen        | Coffee Table          | 8        | 278.07     | 2224.56     ) Tj
+1 0 0 1 40 630 Tm (ORD0201  | 2025-11-04 | Olivia Campbell     | Coffee Table          | 3        | 40.03      | 120.09      ) Tj
+1 0 0 1 40 616 Tm (ORD0202  | 2025-03-04 | Sebastian Lee       | Coffee Table          | 9        | 265.60     | 2390.40     ) Tj
+1 0 0 1 40 602 Tm (ORD0203  | 2024-12-17 | Joseph Carter       | USB-C Hub             | 4        | 89.34      | 357.36      ) Tj
+1 0 0 1 40 588 Tm (ORD0204  | 2025-12-17 | Scarlett Rodriguez  | Smartwatch            | 3        | 129.70     | 389.10      ) Tj
+1 0 0 1 40 574 Tm (ORD0205  | 2025-12-29 | Abigail Hall        | Smartwatch            | 9        | 259.61     | 2336.49     ) Tj
+1 0 0 1 40 560 Tm (ORD0206  | 2024-10-24 | Owen Wilson         | Standing Desk         | 4        | 70.82      | 283.28      ) Tj
+1 0 0 1 40 546 Tm (ORD0207  | 2025-12-11 | Samuel Rodriguez    | Standing Desk         | 3        | 156.13     | 468.39      ) Tj
+1 0 0 1 40 532 Tm (ORD0208  | 2025-08-19 | John Davis          | Coffee Table          | 6        | 173.06     | 1038.36     ) Tj
+1 0 0 1 40 518 Tm (ORD0209  | 2025-06-30 | Aiden Rivera        | USB-C Hub             | 7        | 205.53     | 1438.71     ) Tj
+1 0 0 1 40 504 Tm (ORD0210  | 2025-01-25 | Layla Smith         | LED Lamp              | 9        | 40.88      | 367.92      ) Tj
+1 0 0 1 40 490 Tm (ORD0211  | 2024-06-13 | Elijah Nelson       | USB-C Hub             | 1        | 67.97      | 67.97       ) Tj
+1 0 0 1 40 476 Tm (ORD0212  | 2025-12-08 | Samuel Taylor       | USB-C Hub             | 3        | 253.42     | 760.26      ) Tj
+1 0 0 1 40 462 Tm (ORD0213  | 2025-04-08 | Sophia Carter       | Office Chair          | 9        | 19.37      | 174.33      ) Tj
+1 0 0 1 40 448 Tm (ORD0214  | 2025-10-24 | Jack Baker          | Smartwatch            | 9        | 260.80     | 2347.20     ) Tj
+1 0 0 1 40 434 Tm (ORD0215  | 2025-12-13 | Nora Thomas         | USB-C Hub             | 9        | 237.45     | 2137.05     ) Tj
+1 0 0 1 40 420 Tm (ORD0216  | 2025-01-31 | Joseph Nelson       | Air Purifier          | 1        | 278.68     | 278.68      ) Tj
+1 0 0 1 40 406 Tm (ORD0217  | 2024-09-14 | Samuel Lee          | Notebook Pack         | 9        | 25.60      | 230.40      ) Tj
+1 0 0 1 40 392 Tm (ORD0218  | 2025-10-10 | Jack Roberts        | Standing Desk         | 8        | 250.70     | 2005.60     ) Tj
+1 0 0 1 40 378 Tm (ORD0219  | 2024-07-20 | Matthew Nguyen      | Notebook Pack         | 9        | 224.15     | 2017.35     ) Tj
+1 0 0 1 40 364 Tm (ORD0220  | 2024-03-17 | Evelyn Lewis        | LED Lamp              | 3        | 295.20     | 885.60      ) Tj
+1 0 0 1 40 350 Tm (ORD0221  | 2024-02-11 | Olivia Mitchell     | Air Purifier          | 9        | 44.61      | 401.49      ) Tj
+1 0 0 1 40 336 Tm (ORD0222  | 2025-08-21 | Harper Scott        | USB-C Hub             | 5        | 47.72      | 238.60      ) Tj
+1 0 0 1 40 322 Tm (ORD0223  | 2024-06-07 | Liam Perez          | Wireless Mouse        | 8        | 215.81     | 1726.48     ) Tj
+1 0 0 1 40 308 Tm (ORD0224  | 2025-10-02 | Alexander Lee       | Coffee Table          | 10       | 24.75      | 247.50      ) Tj
+1 0 0 1 40 294 Tm (ORD0225  | 2025-07-17 | Aiden Martin        | Standing Desk         | 8        | 239.07     | 1912.56     ) Tj
+1 0 0 1 40 280 Tm (ORD0226  | 2024-07-07 | James Rivera        | Smartwatch            | 6        | 162.36     | 974.16      ) Tj
+1 0 0 1 40 266 Tm (ORD0227  | 2025-07-03 | James Allen         | Air Purifier          | 3        | 130.62     | 391.86      ) Tj
+1 0 0 1 40 252 Tm (ORD0228  | 2025-11-10 | William Thompson    | Standing Desk         | 4        | 266.19     | 1064.76     ) Tj
+1 0 0 1 40 238 Tm (ORD0229  | 2025-09-25 | Charlotte White     | Smartwatch            | 5        | 73.35      | 366.75      ) Tj
+1 0 0 1 40 224 Tm (ORD0230  | 2024-12-20 | Zoey Scott          | Whiteboard Marker Set | 1        | 43.27      | 43.27       ) Tj
+1 0 0 1 40 210 Tm (ORD0231  | 2024-09-06 | Mia Adams           | Wireless Mouse        | 10       | 276.40     | 2764.00     ) Tj
+1 0 0 1 40 196 Tm (ORD0232  | 2024-04-26 | Samuel Lee          | Air Purifier          | 7        | 275.62     | 1929.34     ) Tj
+1 0 0 1 40 182 Tm (ORD0233  | 2025-06-13 | Amelia Wright       | Standing Desk         | 5        | 17.16      | 85.80       ) Tj
+1 0 0 1 40 168 Tm (ORD0234  | 2024-10-30 | Lily Allen          | Notebook Pack         | 8        | 151.17     | 1209.36     ) Tj
+1 0 0 1 40 154 Tm (ORD0235  | 2024-06-20 | Aria Allen          | Smartwatch            | 2        | 284.98     | 569.96      ) Tj
+1 0 0 1 40 140 Tm (ORD0236  | 2025-10-06 | Chloe Smith         | Notebook Pack         | 2        | 71.13      | 142.26      ) Tj
+1 0 0 1 40 126 Tm (ORD0237  | 2025-12-20 | Samuel Ramirez      | Air Purifier          | 2        | 69.62      | 139.24      ) Tj
+1 0 0 1 40 112 Tm (ORD0238  | 2024-12-05 | Theodore Jones      | Wireless Mouse        | 3        | 16.89      | 50.67       ) Tj
+1 0 0 1 40 98 Tm (ORD0239  | 2024-09-14 | William Jones       | Smartwatch            | 1        | 61.62      | 61.62       ) Tj
+1 0 0 1 40 84 Tm (ORD0240  | 2025-02-21 | James Torres        | Air Purifier          | 4        | 274.19     | 1096.76     ) Tj
+1 0 0 1 40 70 Tm (ORD0241  | 2024-01-18 | Scarlett Green      | Air Purifier          | 7        | 135.58     | 949.06      ) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 1185 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (ORD0242  | 2025-09-25 | Samuel Davis        | Office Chair          | 9        | 11.71      | 105.39      ) Tj
+1 0 0 1 40 728 Tm (ORD0243  | 2024-03-15 | Matthew Mitchell    | Standing Desk         | 10       | 23.20      | 232.00      ) Tj
+1 0 0 1 40 714 Tm (ORD0244  | 2024-11-04 | Lily Miller         | Coffee Table          | 5        | 238.20     | 1191.00     ) Tj
+1 0 0 1 40 700 Tm (ORD0245  | 2025-11-07 | William Jackson     | Wireless Mouse        | 8        | 120.61     | 964.88      ) Tj
+1 0 0 1 40 686 Tm (ORD0246  | 2025-02-04 | Zoey Hernandez      | Smartwatch            | 9        | 73.76      | 663.84      ) Tj
+1 0 0 1 40 672 Tm (ORD0247  | 2025-10-25 | Evelyn Green        | Standing Desk         | 3        | 96.44      | 289.32      ) Tj
+1 0 0 1 40 658 Tm (ORD0248  | 2024-02-12 | Liam Scott          | Wireless Mouse        | 9        | 51.00      | 459.00      ) Tj
+1 0 0 1 40 644 Tm (ORD0249  | 2024-03-28 | Leo Hill            | USB-C Hub             | 7        | 165.77     | 1160.39     ) Tj
+1 0 0 1 40 630 Tm (ORD0250  | 2025-10-23 | Sophia Mitchell     | Smartwatch            | 6        | 71.40      | 428.40      ) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000156 00000 n 
+0000000224 00000 n 
+0000006472 00000 n 
+0000006598 00000 n 
+0000013032 00000 n 
+0000013158 00000 n 
+0000019592 00000 n 
+0000019718 00000 n 
+0000026153 00000 n 
+0000026281 00000 n 
+0000032716 00000 n 
+0000032844 00000 n 
+0000034082 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+34210
+%%EOF

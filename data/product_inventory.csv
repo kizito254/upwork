@@ -1,0 +1,151 @@
+Product_ID,Product_Name,Category,Stock_Quantity,Unit_Price,Supplier
+P1001,Document Folder Mini,Office Supplies,12,135.91,BluePeak Supply Ltd.
+P1002,Ink Cartridge,Office Supplies,349,134.77,Global Source Partners
+P1003,Vacuum Cleaner,Home,246,17.39,Horizon Procurement Inc.
+P1004,Curtain Set X,Home,330,412.81,Atlas Industrial Supply
+P1005,Whiteboard Marker Set X,Office Supplies,160,497.98,BluePeak Supply Ltd.
+P1006,4K Monitor,Electronics,74,197.38,PrimeLine Imports
+P1007,Label Maker,Office Supplies,84,443.28,BluePeak Supply Ltd.
+P1008,Label Maker Elite,Office Supplies,21,346.69,Riverstone Distributors
+P1009,Binder Clips Set,Office Supplies,442,184.53,PrimeLine Imports
+P1010,Air Purifier Plus,Home,500,65.47,Evergreen Merchants
+P1011,4K Monitor,Electronics,310,485.69,Northstar Trading Co.
+P1012,Electric Kettle,Home,407,284.47,BluePeak Supply Ltd.
+P1013,Lounge Chair Plus,Furniture,173,388.31,Crestfield Logistics
+P1014,Bluetooth Speaker,Electronics,79,493.83,Horizon Procurement Inc.
+P1015,LED Floor Lamp X,Home,72,12.36,Riverstone Distributors
+P1016,Air Purifier X,Home,69,372.15,Horizon Procurement Inc.
+P1017,USB-C Hub Elite,Electronics,267,298.86,Evergreen Merchants
+P1018,Lounge Chair Pro,Furniture,159,231.73,Northstar Trading Co.
+P1019,Smartwatch,Electronics,223,344.62,Evergreen Merchants
+P1020,Whiteboard Marker Set,Office Supplies,169,306.11,BluePeak Supply Ltd.
+P1021,Storage Cabinet,Furniture,304,276.44,PrimeLine Imports
+P1022,Label Maker,Office Supplies,237,255.25,Global Source Partners
+P1023,USB-C Hub,Electronics,338,439.46,Horizon Procurement Inc.
+P1024,Workstation Desk Plus,Furniture,216,172.77,Evergreen Merchants
+P1025,Sticky Notes Bundle,Office Supplies,165,216.25,Atlas Industrial Supply
+P1026,LED Floor Lamp,Home,247,38.23,BluePeak Supply Ltd.
+P1027,Webcam Pro Elite,Electronics,420,69.41,Northstar Trading Co.
+P1028,Vacuum Cleaner Mini,Home,449,458.34,Northstar Trading Co.
+P1029,Curtain Set X,Home,300,256.17,Summit Wholesale Group
+P1030,Notebook Pack,Office Supplies,184,423.46,PrimeLine Imports
+P1031,Bluetooth Speaker,Electronics,418,217.41,Horizon Procurement Inc.
+P1032,Wi-Fi Router,Electronics,429,348.27,Northstar Trading Co.
+P1033,Storage Cabinet,Furniture,163,461.16,PrimeLine Imports
+P1034,Noise Cancelling Headphones,Electronics,294,330.39,BluePeak Supply Ltd.
+P1035,Ergonomic Chair Pro,Furniture,115,191.22,Evergreen Merchants
+P1036,LED Floor Lamp Elite,Home,402,471.00,Crestfield Logistics
+P1037,Wireless Mouse Pro,Electronics,30,338.61,Atlas Industrial Supply
+P1038,Sticky Notes Bundle Mini,Office Supplies,217,140.22,Horizon Procurement Inc.
+P1039,Portable SSD Elite,Electronics,352,340.85,Evergreen Merchants
+P1040,Air Purifier Pro,Home,33,8.81,Atlas Industrial Supply
+P1041,Bookshelf,Furniture,153,167.42,Northstar Trading Co.
+P1042,Sticky Notes Bundle Mini,Office Supplies,277,353.32,Horizon Procurement Inc.
+P1043,Vacuum Cleaner X,Home,228,14.28,BluePeak Supply Ltd.
+P1044,Curtain Set Mini,Home,368,321.87,Atlas Industrial Supply
+P1045,Webcam Pro Elite,Electronics,92,401.65,Crestfield Logistics
+P1046,Ink Cartridge X,Office Supplies,129,220.66,Global Source Partners
+P1047,Webcam Pro,Electronics,386,173.06,PrimeLine Imports
+P1048,Standing Desk,Furniture,63,267.65,Riverstone Distributors
+P1049,Cookware Set,Home,424,324.49,Summit Wholesale Group
+P1050,Standing Desk Plus,Furniture,93,303.19,BluePeak Supply Ltd.
+P1051,Filing Drawer Pro,Furniture,394,291.84,Crestfield Logistics
+P1052,Cookware Set X,Home,245,223.89,Atlas Industrial Supply
+P1053,Curtain Set Pro,Home,42,158.65,Evergreen Merchants
+P1054,Wireless Mouse Elite,Electronics,44,324.11,BluePeak Supply Ltd.
+P1055,Binder Clips Set,Office Supplies,493,396.95,Northstar Trading Co.
+P1056,Label Maker,Office Supplies,169,304.48,Horizon Procurement Inc.
+P1057,Ergonomic Chair Elite,Furniture,370,46.74,Summit Wholesale Group
+P1058,4K Monitor,Electronics,229,264.41,Crestfield Logistics
+P1059,Reception Sofa Elite,Furniture,203,207.34,PrimeLine Imports
+P1060,Portable SSD X,Electronics,290,340.80,Atlas Industrial Supply
+P1061,Curtain Set,Home,175,45.34,Summit Wholesale Group
+P1062,Blender Max,Home,362,332.76,Summit Wholesale Group
+P1063,Bluetooth Speaker,Electronics,334,396.87,Summit Wholesale Group
+P1064,Webcam Pro,Electronics,14,184.49,Summit Wholesale Group
+P1065,Reception Sofa,Furniture,253,100.04,Summit Wholesale Group
+P1066,Standing Desk X,Furniture,264,386.58,Horizon Procurement Inc.
+P1067,Portable SSD,Electronics,321,69.87,Global Source Partners
+P1068,Bookshelf Pro,Furniture,419,451.81,Evergreen Merchants
+P1069,Webcam Pro Plus,Electronics,232,307.24,Evergreen Merchants
+P1070,Coffee Table Mini,Furniture,467,418.38,PrimeLine Imports
+P1071,Binder Clips Set,Office Supplies,403,194.03,Horizon Procurement Inc.
+P1072,Stapler Pro,Office Supplies,415,304.31,Atlas Industrial Supply
+P1073,Smartwatch,Electronics,288,467.48,Horizon Procurement Inc.
+P1074,Bluetooth Speaker Plus,Electronics,144,227.41,Horizon Procurement Inc.
+P1075,Workstation Desk Plus,Furniture,423,228.31,PrimeLine Imports
+P1076,Webcam Pro Pro,Electronics,196,121.71,BluePeak Supply Ltd.
+P1077,Electric Kettle X,Home,434,358.78,PrimeLine Imports
+P1078,Bookshelf Mini,Furniture,361,416.40,Evergreen Merchants
+P1079,Label Maker X,Office Supplies,14,131.68,Summit Wholesale Group
+P1080,Whiteboard Marker Set,Office Supplies,126,154.07,Northstar Trading Co.
+P1081,Workstation Desk,Furniture,323,231.27,BluePeak Supply Ltd.
+P1082,Label Maker,Office Supplies,328,260.11,Riverstone Distributors
+P1083,Storage Cabinet Pro,Furniture,185,124.08,Global Source Partners
+P1084,Standing Desk,Furniture,189,38.50,Horizon Procurement Inc.
+P1085,Webcam Pro,Electronics,27,319.66,PrimeLine Imports
+P1086,Air Purifier X,Home,181,124.36,BluePeak Supply Ltd.
+P1087,LED Floor Lamp Pro,Home,178,407.69,Summit Wholesale Group
+P1088,Binder Clips Set,Office Supplies,420,71.75,Evergreen Merchants
+P1089,Bluetooth Speaker Plus,Electronics,458,25.74,Atlas Industrial Supply
+P1090,Document Folder X,Office Supplies,390,325.22,Atlas Industrial Supply
+P1091,Air Purifier,Home,174,140.24,PrimeLine Imports
+P1092,Sticky Notes Bundle,Office Supplies,463,478.46,PrimeLine Imports
+P1093,Filing Drawer,Furniture,193,462.53,Horizon Procurement Inc.
+P1094,Vacuum Cleaner,Home,45,218.15,Summit Wholesale Group
+P1095,Cookware Set Elite,Home,343,151.34,Evergreen Merchants
+P1096,Stapler Pro,Office Supplies,184,226.33,PrimeLine Imports
+P1097,Desk Organizer,Office Supplies,410,474.21,BluePeak Supply Ltd.
+P1098,Ink Cartridge,Office Supplies,388,341.31,Northstar Trading Co.
+P1099,Lounge Chair,Furniture,229,22.23,BluePeak Supply Ltd.
+P1100,Reception Sofa Pro,Furniture,21,304.52,Evergreen Merchants
+P1101,Cookware Set X,Home,298,73.16,PrimeLine Imports
+P1102,Ink Cartridge,Office Supplies,132,480.46,Northstar Trading Co.
+P1103,Filing Drawer,Furniture,472,283.03,Atlas Industrial Supply
+P1104,Robot Mop Pro,Home,151,348.52,Evergreen Merchants
+P1105,Standing Desk X,Furniture,236,90.46,Evergreen Merchants
+P1106,Portable SSD,Electronics,368,37.14,Horizon Procurement Inc.
+P1107,Blender Max,Home,369,356.23,Summit Wholesale Group
+P1108,Wall Clock Plus,Home,410,73.74,Evergreen Merchants
+P1109,Portable SSD,Electronics,193,236.37,Horizon Procurement Inc.
+P1110,Lounge Chair,Furniture,38,158.10,Evergreen Merchants
+P1111,Sticky Notes Bundle,Office Supplies,42,67.04,PrimeLine Imports
+P1112,Smartwatch Pro,Electronics,181,68.53,Horizon Procurement Inc.
+P1113,Bookshelf X,Furniture,430,66.46,Summit Wholesale Group
+P1114,LED Floor Lamp Plus,Home,182,474.00,Horizon Procurement Inc.
+P1115,Vacuum Cleaner Pro,Home,145,66.96,Atlas Industrial Supply
+P1116,Mechanical Keyboard,Electronics,308,471.10,Summit Wholesale Group
+P1117,Lounge Chair,Furniture,314,172.12,Crestfield Logistics
+P1118,Wireless Mouse Pro,Electronics,140,327.31,Crestfield Logistics
+P1119,Label Maker,Office Supplies,259,445.05,Horizon Procurement Inc.
+P1120,Blender Max Mini,Home,157,229.50,Northstar Trading Co.
+P1121,Filing Drawer Mini,Furniture,109,173.40,Summit Wholesale Group
+P1122,Cookware Set,Home,445,175.96,Global Source Partners
+P1123,Reception Sofa,Furniture,59,162.96,Evergreen Merchants
+P1124,Bluetooth Speaker Plus,Electronics,54,30.05,Global Source Partners
+P1125,Notebook Pack,Office Supplies,466,84.05,PrimeLine Imports
+P1126,Electric Kettle,Home,260,498.00,Evergreen Merchants
+P1127,Desk Organizer X,Office Supplies,488,199.65,Evergreen Merchants
+P1128,Conference Table,Furniture,29,30.02,Evergreen Merchants
+P1129,Desk Organizer,Office Supplies,438,58.21,Summit Wholesale Group
+P1130,Cookware Set,Home,192,27.39,Northstar Trading Co.
+P1131,Reception Sofa,Furniture,42,196.24,Evergreen Merchants
+P1132,Curtain Set,Home,65,68.69,BluePeak Supply Ltd.
+P1133,Ink Cartridge,Office Supplies,178,281.13,PrimeLine Imports
+P1134,Conference Table,Furniture,210,252.54,Northstar Trading Co.
+P1135,Noise Cancelling Headphones,Electronics,416,239.50,Evergreen Merchants
+P1136,Lounge Chair,Furniture,76,167.34,Crestfield Logistics
+P1137,LED Floor Lamp Pro,Home,383,422.09,Crestfield Logistics
+P1138,Wall Clock,Home,277,247.47,Crestfield Logistics
+P1139,Robot Mop,Home,193,168.96,BluePeak Supply Ltd.
+P1140,Label Maker X,Office Supplies,310,239.92,Crestfield Logistics
+P1141,Ergonomic Chair,Furniture,92,264.50,Crestfield Logistics
+P1142,Stapler Pro,Office Supplies,129,20.63,BluePeak Supply Ltd.
+P1143,Ergonomic Chair Mini,Furniture,82,209.42,Riverstone Distributors
+P1144,Document Folder,Office Supplies,476,238.44,Northstar Trading Co.
+P1145,Coffee Table Elite,Furniture,344,241.79,Global Source Partners
+P1146,LED Floor Lamp Pro,Home,180,275.41,Atlas Industrial Supply
+P1147,Notebook Pack,Office Supplies,147,281.25,Riverstone Distributors
+P1148,Blender Max,Home,358,353.97,PrimeLine Imports
+P1149,Ink Cartridge,Office Supplies,483,398.73,Atlas Industrial Supply
+P1150,Vacuum Cleaner,Home,283,192.95,Global Source Partners
