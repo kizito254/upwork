@@ -1,0 +1,185 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 3 /Kids [ 5 0 R 7 0 R 9 0 R ] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Length 6148 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (Business Leads Dataset) Tj
+1 0 0 1 40 728 Tm () Tj
+1 0 0 1 40 714 Tm (Company_Name      | Website                  | Email                    | Industry   | Location          ) Tj
+1 0 0 1 40 700 Tm (------------------+--------------------------+--------------------------+------------+-------------------) Tj
+1 0 0 1 40 686 Tm (Insight Media     | https://www.insightmedia | contact@insightmedia.io  | Finance    | San Francisco, USA) Tj
+1 0 0 1 40 672 Tm (Apex Group        | https://www.apexgroup.co | contact@apexgroup.com    | Finance    | Tokyo, Japan      ) Tj
+1 0 0 1 40 658 Tm (Nexa Advisors     | https://www.nexaadvisors | contact@nexaadvisors.net | Marketing  | Dubai, UAE        ) Tj
+1 0 0 1 40 644 Tm (Insight Capital   | https://www.insightcapit | contact@insightcapital.c | Education  | New York, USA     ) Tj
+1 0 0 1 40 630 Tm (Apex Dynamics     | https://www.apexdynamics | contact@apexdynamics.com | Education  | New York, USA     ) Tj
+1 0 0 1 40 616 Tm (Prime Systems     | https://www.primesystems | contact@primesystems.io  | Technology | Paris, France     ) Tj
+1 0 0 1 40 602 Tm (Beacon Capital    | https://www.beaconcapita | contact@beaconcapital.io | Marketing  | San Francisco, USA) Tj
+1 0 0 1 40 588 Tm (Vertex Health     | https://www.vertexhealth | contact@vertexhealth.co  | Healthcare | London, UK        ) Tj
+1 0 0 1 40 574 Tm (Nexa Dynamics     | https://www.nexadynamics | contact@nexadynamics.com | Education  | Singapore         ) Tj
+1 0 0 1 40 560 Tm (Quantum Analytics | https://www.quantumanaly | contact@quantumanalytics | Healthcare | Paris, France     ) Tj
+1 0 0 1 40 546 Tm (Summit Advisors   | https://www.summitadviso | contact@summitadvisors.c | Finance    | Paris, France     ) Tj
+1 0 0 1 40 532 Tm (Nova Solutions    | https://www.novasolution | contact@novasolutions.io | Education  | New York, USA     ) Tj
+1 0 0 1 40 518 Tm (Cobalt Labs       | https://www.cobaltlabs.i | contact@cobaltlabs.io    | Healthcare | Singapore         ) Tj
+1 0 0 1 40 504 Tm (Beacon Labs       | https://www.beaconlabs.n | contact@beaconlabs.net   | Healthcare | Singapore         ) Tj
+1 0 0 1 40 490 Tm (Beacon Group      | https://www.beacongroup. | contact@beacongroup.co   | Technology | San Francisco, USA) Tj
+1 0 0 1 40 476 Tm (Apex Networks     | https://www.apexnetworks | contact@apexnetworks.com | Finance    | Sydney, Australia ) Tj
+1 0 0 1 40 462 Tm (Bright Analytics  | https://www.brightanalyt | contact@brightanalytics. | Marketing  | Bangalore, India  ) Tj
+1 0 0 1 40 448 Tm (Bright Advisors   | https://www.brightadviso | contact@brightadvisors.i | Technology | Toronto, Canada   ) Tj
+1 0 0 1 40 434 Tm (Pioneer Group     | https://www.pioneergroup | contact@pioneergroup.net | Finance    | New York, USA     ) Tj
+1 0 0 1 40 420 Tm (Pioneer Labs      | https://www.pioneerlabs. | contact@pioneerlabs.co   | Finance    | São Paulo, Brazil ) Tj
+1 0 0 1 40 406 Tm (Nexa Systems      | https://www.nexasystems. | contact@nexasystems.io   | Education  | Paris, France     ) Tj
+1 0 0 1 40 392 Tm (Beacon Health     | https://www.beaconhealth | contact@beaconhealth.net | Education  | Toronto, Canada   ) Tj
+1 0 0 1 40 378 Tm (Vertex Health     | https://www.vertexhealth | contact@vertexhealth.com | Marketing  | Singapore         ) Tj
+1 0 0 1 40 364 Tm (Bright Media      | https://www.brightmedia. | contact@brightmedia.io   | Technology | Sydney, Australia ) Tj
+1 0 0 1 40 350 Tm (Quantum Systems   | https://www.quantumsyste | contact@quantumsystems.n | Finance    | Toronto, Canada   ) Tj
+1 0 0 1 40 336 Tm (Apex Analytics    | https://www.apexanalytic | contact@apexanalytics.co | Marketing  | San Francisco, USA) Tj
+1 0 0 1 40 322 Tm (Nexa Solutions    | https://www.nexasolution | contact@nexasolutions.ne | Finance    | Singapore         ) Tj
+1 0 0 1 40 308 Tm (Quantum Analytics | https://www.quantumanaly | contact@quantumanalytics | Technology | Paris, France     ) Tj
+1 0 0 1 40 294 Tm (Beacon Advisors   | https://www.beaconadviso | contact@beaconadvisors.c | Education  | Dubai, UAE        ) Tj
+1 0 0 1 40 280 Tm (Summit Dynamics   | https://www.summitdynami | contact@summitdynamics.n | Marketing  | Tokyo, Japan      ) Tj
+1 0 0 1 40 266 Tm (Cobalt Networks   | https://www.cobaltnetwor | contact@cobaltnetworks.c | Healthcare | New York, USA     ) Tj
+1 0 0 1 40 252 Tm (Ever Learning     | https://www.everlearning | contact@everlearning.io  | Marketing  | Paris, France     ) Tj
+1 0 0 1 40 238 Tm (Fusion Networks   | https://www.fusionnetwor | contact@fusionnetworks.c | Education  | Tokyo, Japan      ) Tj
+1 0 0 1 40 224 Tm (Ever Group        | https://www.evergroup.co | contact@evergroup.co     | Technology | São Paulo, Brazil ) Tj
+1 0 0 1 40 210 Tm (Vertex Labs       | https://www.vertexlabs.i | contact@vertexlabs.io    | Education  | Bangalore, India  ) Tj
+1 0 0 1 40 196 Tm (Pioneer Dynamics  | https://www.pioneerdynam | contact@pioneerdynamics. | Education  | Tokyo, Japan      ) Tj
+1 0 0 1 40 182 Tm (Vertex Analytics  | https://www.vertexanalyt | contact@vertexanalytics. | Education  | Tokyo, Japan      ) Tj
+1 0 0 1 40 168 Tm (Vertex Capital    | https://www.vertexcapita | contact@vertexcapital.ne | Technology | Tokyo, Japan      ) Tj
+1 0 0 1 40 154 Tm (Pioneer Capital   | https://www.pioneercapit | contact@pioneercapital.n | Healthcare | São Paulo, Brazil ) Tj
+1 0 0 1 40 140 Tm (Nova Capital      | https://www.novacapital. | contact@novacapital.net  | Finance    | New York, USA     ) Tj
+1 0 0 1 40 126 Tm (Nova Health       | https://www.novahealth.c | contact@novahealth.co    | Technology | New York, USA     ) Tj
+1 0 0 1 40 112 Tm (Summit Networks   | https://www.summitnetwor | contact@summitnetworks.c | Technology | Berlin, Germany   ) Tj
+1 0 0 1 40 98 Tm (Nimbus Group      | https://www.nimbusgroup. | contact@nimbusgroup.com  | Education  | San Francisco, USA) Tj
+1 0 0 1 40 84 Tm (Beacon Solutions  | https://www.beaconsoluti | contact@beaconsolutions. | Technology | Sydney, Australia ) Tj
+1 0 0 1 40 70 Tm (Quantum Dynamics  | https://www.quantumdynam | contact@quantumdynamics. | Healthcare | Toronto, Canada   ) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 6337 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (Insight Health    | https://www.insighthealt | contact@insighthealth.ne | Technology | Paris, France     ) Tj
+1 0 0 1 40 728 Tm (Nexa Capital      | https://www.nexacapital. | contact@nexacapital.io   | Finance    | London, UK        ) Tj
+1 0 0 1 40 714 Tm (Ever Dynamics     | https://www.everdynamics | contact@everdynamics.io  | Technology | San Francisco, USA) Tj
+1 0 0 1 40 700 Tm (Apex Learning     | https://www.apexlearning | contact@apexlearning.net | Education  | Berlin, Germany   ) Tj
+1 0 0 1 40 686 Tm (Insight Systems   | https://www.insightsyste | contact@insightsystems.i | Healthcare | Toronto, Canada   ) Tj
+1 0 0 1 40 672 Tm (Pioneer Advisors  | https://www.pioneeradvis | contact@pioneeradvisors. | Technology | San Francisco, USA) Tj
+1 0 0 1 40 658 Tm (Fusion Analytics  | https://www.fusionanalyt | contact@fusionanalytics. | Education  | San Francisco, USA) Tj
+1 0 0 1 40 644 Tm (Summit Systems    | https://www.summitsystem | contact@summitsystems.co | Technology | São Paulo, Brazil ) Tj
+1 0 0 1 40 630 Tm (Nova Learning     | https://www.novalearning | contact@novalearning.com | Marketing  | New York, USA     ) Tj
+1 0 0 1 40 616 Tm (Nova Health       | https://www.novahealth.n | contact@novahealth.net   | Marketing  | Bangalore, India  ) Tj
+1 0 0 1 40 602 Tm (Summit Labs       | https://www.summitlabs.i | contact@summitlabs.io    | Education  | Sydney, Australia ) Tj
+1 0 0 1 40 588 Tm (Summit Group      | https://www.summitgroup. | contact@summitgroup.co   | Education  | São Paulo, Brazil ) Tj
+1 0 0 1 40 574 Tm (Fusion Analytics  | https://www.fusionanalyt | contact@fusionanalytics. | Marketing  | Sydney, Australia ) Tj
+1 0 0 1 40 560 Tm (Beacon Dynamics   | https://www.beacondynami | contact@beacondynamics.i | Healthcare | Sydney, Australia ) Tj
+1 0 0 1 40 546 Tm (Apex Labs         | https://www.apexlabs.io  | contact@apexlabs.io      | Healthcare | Bangalore, India  ) Tj
+1 0 0 1 40 532 Tm (Bright Labs       | https://www.brightlabs.c | contact@brightlabs.co    | Healthcare | Bangalore, India  ) Tj
+1 0 0 1 40 518 Tm (Nimbus Group      | https://www.nimbusgroup. | contact@nimbusgroup.net  | Healthcare | Singapore         ) Tj
+1 0 0 1 40 504 Tm (Apex Health       | https://www.apexhealth.i | contact@apexhealth.io    | Education  | Tokyo, Japan      ) Tj
+1 0 0 1 40 490 Tm (Summit Systems    | https://www.summitsystem | contact@summitsystems.co | Marketing  | Tokyo, Japan      ) Tj
+1 0 0 1 40 476 Tm (Quantum Capital   | https://www.quantumcapit | contact@quantumcapital.i | Healthcare | Dubai, UAE        ) Tj
+1 0 0 1 40 462 Tm (Apex Systems      | https://www.apexsystems. | contact@apexsystems.co   | Technology | Tokyo, Japan      ) Tj
+1 0 0 1 40 448 Tm (Insight Media     | https://www.insightmedia | contact@insightmedia.com | Education  | New York, USA     ) Tj
+1 0 0 1 40 434 Tm (Insight Systems   | https://www.insightsyste | contact@insightsystems.c | Finance    | Berlin, Germany   ) Tj
+1 0 0 1 40 420 Tm (Nexa Networks     | https://www.nexanetworks | contact@nexanetworks.com | Technology | Dubai, UAE        ) Tj
+1 0 0 1 40 406 Tm (Fusion Networks   | https://www.fusionnetwor | contact@fusionnetworks.i | Healthcare | Dubai, UAE        ) Tj
+1 0 0 1 40 392 Tm (Insight Media     | https://www.insightmedia | contact@insightmedia.co  | Technology | Dubai, UAE        ) Tj
+1 0 0 1 40 378 Tm (Beacon Systems    | https://www.beaconsystem | contact@beaconsystems.co | Healthcare | Dubai, UAE        ) Tj
+1 0 0 1 40 364 Tm (Cobalt Networks   | https://www.cobaltnetwor | contact@cobaltnetworks.i | Healthcare | Dubai, UAE        ) Tj
+1 0 0 1 40 350 Tm (Ever Media        | https://www.evermedia.co | contact@evermedia.co     | Healthcare | Tokyo, Japan      ) Tj
+1 0 0 1 40 336 Tm (Ever Analytics    | https://www.everanalytic | contact@everanalytics.co | Finance    | Sydney, Australia ) Tj
+1 0 0 1 40 322 Tm (Nimbus Capital    | https://www.nimbuscapita | contact@nimbuscapital.ne | Healthcare | London, UK        ) Tj
+1 0 0 1 40 308 Tm (Fusion Group      | https://www.fusiongroup. | contact@fusiongroup.net  | Finance    | Dubai, UAE        ) Tj
+1 0 0 1 40 294 Tm (Nimbus Media      | https://www.nimbusmedia. | contact@nimbusmedia.net  | Technology | São Paulo, Brazil ) Tj
+1 0 0 1 40 280 Tm (Nova Advisors     | https://www.novaadvisors | contact@novaadvisors.net | Finance    | Singapore         ) Tj
+1 0 0 1 40 266 Tm (Summit Media      | https://www.summitmedia. | contact@summitmedia.io   | Healthcare | São Paulo, Brazil ) Tj
+1 0 0 1 40 252 Tm (Insight Systems   | https://www.insightsyste | contact@insightsystems.n | Education  | Paris, France     ) Tj
+1 0 0 1 40 238 Tm (Nexa Media        | https://www.nexamedia.co | contact@nexamedia.co     | Healthcare | New York, USA     ) Tj
+1 0 0 1 40 224 Tm (Nexa Group        | https://www.nexagroup.ne | contact@nexagroup.net    | Healthcare | Singapore         ) Tj
+1 0 0 1 40 210 Tm (Cobalt Media      | https://www.cobaltmedia. | contact@cobaltmedia.io   | Marketing  | New York, USA     ) Tj
+1 0 0 1 40 196 Tm (Beacon Capital    | https://www.beaconcapita | contact@beaconcapital.co | Education  | San Francisco, USA) Tj
+1 0 0 1 40 182 Tm (Insight Solutions | https://www.insightsolut | contact@insightsolutions | Technology | Berlin, Germany   ) Tj
+1 0 0 1 40 168 Tm (Pioneer Analytics | https://www.pioneeranaly | contact@pioneeranalytics | Technology | New York, USA     ) Tj
+1 0 0 1 40 154 Tm (Pioneer Labs      | https://www.pioneerlabs. | contact@pioneerlabs.io   | Education  | Tokyo, Japan      ) Tj
+1 0 0 1 40 140 Tm (Nimbus Labs       | https://www.nimbuslabs.n | contact@nimbuslabs.net   | Healthcare | San Francisco, USA) Tj
+1 0 0 1 40 126 Tm (Nova Labs         | https://www.novalabs.co  | contact@novalabs.co      | Education  | Sydney, Australia ) Tj
+1 0 0 1 40 112 Tm (Fusion Dynamics   | https://www.fusiondynami | contact@fusiondynamics.c | Technology | Bangalore, India  ) Tj
+1 0 0 1 40 98 Tm (Pioneer Systems   | https://www.pioneersyste | contact@pioneersystems.i | Education  | Bangalore, India  ) Tj
+1 0 0 1 40 84 Tm (Apex Media        | https://www.apexmedia.co | contact@apexmedia.co     | Healthcare | London, UK        ) Tj
+1 0 0 1 40 70 Tm (Nimbus Health     | https://www.nimbushealth | contact@nimbushealth.net | Education  | Dubai, UAE        ) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3373 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (Cobalt Systems    | https://www.cobaltsystem | contact@cobaltsystems.co | Technology | Paris, France     ) Tj
+1 0 0 1 40 728 Tm (Insight Analytics | https://www.insightanaly | contact@insightanalytics | Technology | Berlin, Germany   ) Tj
+1 0 0 1 40 714 Tm (Quantum Health    | https://www.quantumhealt | contact@quantumhealth.ne | Technology | Paris, France     ) Tj
+1 0 0 1 40 700 Tm (Nova Group        | https://www.novagroup.io | contact@novagroup.io     | Technology | Tokyo, Japan      ) Tj
+1 0 0 1 40 686 Tm (Insight Health    | https://www.insighthealt | contact@insighthealth.co | Education  | London, UK        ) Tj
+1 0 0 1 40 672 Tm (Summit Systems    | https://www.summitsystem | contact@summitsystems.ne | Finance    | San Francisco, USA) Tj
+1 0 0 1 40 658 Tm (Beacon Solutions  | https://www.beaconsoluti | contact@beaconsolutions. | Education  | São Paulo, Brazil ) Tj
+1 0 0 1 40 644 Tm (Nexa Labs         | https://www.nexalabs.io  | contact@nexalabs.io      | Finance    | San Francisco, USA) Tj
+1 0 0 1 40 630 Tm (Summit Networks   | https://www.summitnetwor | contact@summitnetworks.i | Healthcare | London, UK        ) Tj
+1 0 0 1 40 616 Tm (Apex Dynamics     | https://www.apexdynamics | contact@apexdynamics.io  | Education  | Berlin, Germany   ) Tj
+1 0 0 1 40 602 Tm (Nexa Capital      | https://www.nexacapital. | contact@nexacapital.co   | Healthcare | New York, USA     ) Tj
+1 0 0 1 40 588 Tm (Pioneer Group     | https://www.pioneergroup | contact@pioneergroup.com | Education  | New York, USA     ) Tj
+1 0 0 1 40 574 Tm (Nimbus Labs       | https://www.nimbuslabs.c | contact@nimbuslabs.com   | Healthcare | Dubai, UAE        ) Tj
+1 0 0 1 40 560 Tm (Insight Solutions | https://www.insightsolut | contact@insightsolutions | Education  | São Paulo, Brazil ) Tj
+1 0 0 1 40 546 Tm (Prime Health      | https://www.primehealth. | contact@primehealth.co   | Technology | Paris, France     ) Tj
+1 0 0 1 40 532 Tm (Summit Media      | https://www.summitmedia. | contact@summitmedia.net  | Healthcare | Singapore         ) Tj
+1 0 0 1 40 518 Tm (Nexa Networks     | https://www.nexanetworks | contact@nexanetworks.net | Technology | São Paulo, Brazil ) Tj
+1 0 0 1 40 504 Tm (Apex Systems      | https://www.apexsystems. | contact@apexsystems.com  | Technology | Sydney, Australia ) Tj
+1 0 0 1 40 490 Tm (Pioneer Health    | https://www.pioneerhealt | contact@pioneerhealth.io | Healthcare | Toronto, Canada   ) Tj
+1 0 0 1 40 476 Tm (Nimbus Solutions  | https://www.nimbussoluti | contact@nimbussolutions. | Technology | Sydney, Australia ) Tj
+1 0 0 1 40 462 Tm (Bright Media      | https://www.brightmedia. | contact@brightmedia.co   | Technology | Singapore         ) Tj
+1 0 0 1 40 448 Tm (Vertex Dynamics   | https://www.vertexdynami | contact@vertexdynamics.n | Healthcare | Bangalore, India  ) Tj
+1 0 0 1 40 434 Tm (Ever Capital      | https://www.evercapital. | contact@evercapital.net  | Technology | San Francisco, USA) Tj
+1 0 0 1 40 420 Tm (Vertex Media      | https://www.vertexmedia. | contact@vertexmedia.com  | Education  | São Paulo, Brazil ) Tj
+1 0 0 1 40 406 Tm (Fusion Media      | https://www.fusionmedia. | contact@fusionmedia.net  | Technology | Sydney, Australia ) Tj
+1 0 0 1 40 392 Tm (Quantum Health    | https://www.quantumhealt | contact@quantumhealth.co | Education  | Dubai, UAE        ) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000135 00000 n 
+0000000203 00000 n 
+0000006403 00000 n 
+0000006529 00000 n 
+0000012918 00000 n 
+0000013044 00000 n 
+0000016469 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+16595
+%%EOF

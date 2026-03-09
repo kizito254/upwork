@@ -1,0 +1,228 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 4 /Kids [ 5 0 R 7 0 R 9 0 R 11 0 R ] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Length 6477 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (Product Inventory Dataset) Tj
+1 0 0 1 40 728 Tm () Tj
+1 0 0 1 40 714 Tm (Product_ID | Product_Name             | Category        | Stock_Quantity | Unit_Price | Supplier                ) Tj
+1 0 0 1 40 700 Tm (-----------+--------------------------+-----------------+----------------+------------+-------------------------) Tj
+1 0 0 1 40 686 Tm (P1001      | Document Folder Mini     | Office Supplies | 12             | 135.91     | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 672 Tm (P1002      | Ink Cartridge            | Office Supplies | 349            | 134.77     | Global Source Partners  ) Tj
+1 0 0 1 40 658 Tm (P1003      | Vacuum Cleaner           | Home            | 246            | 17.39      | Horizon Procurement Inc.) Tj
+1 0 0 1 40 644 Tm (P1004      | Curtain Set X            | Home            | 330            | 412.81     | Atlas Industrial Supply ) Tj
+1 0 0 1 40 630 Tm (P1005      | Whiteboard Marker Set X  | Office Supplies | 160            | 497.98     | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 616 Tm (P1006      | 4K Monitor               | Electronics     | 74             | 197.38     | PrimeLine Imports       ) Tj
+1 0 0 1 40 602 Tm (P1007      | Label Maker              | Office Supplies | 84             | 443.28     | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 588 Tm (P1008      | Label Maker Elite        | Office Supplies | 21             | 346.69     | Riverstone Distributors ) Tj
+1 0 0 1 40 574 Tm (P1009      | Binder Clips Set         | Office Supplies | 442            | 184.53     | PrimeLine Imports       ) Tj
+1 0 0 1 40 560 Tm (P1010      | Air Purifier Plus        | Home            | 500            | 65.47      | Evergreen Merchants     ) Tj
+1 0 0 1 40 546 Tm (P1011      | 4K Monitor               | Electronics     | 310            | 485.69     | Northstar Trading Co.   ) Tj
+1 0 0 1 40 532 Tm (P1012      | Electric Kettle          | Home            | 407            | 284.47     | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 518 Tm (P1013      | Lounge Chair Plus        | Furniture       | 173            | 388.31     | Crestfield Logistics    ) Tj
+1 0 0 1 40 504 Tm (P1014      | Bluetooth Speaker        | Electronics     | 79             | 493.83     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 490 Tm (P1015      | LED Floor Lamp X         | Home            | 72             | 12.36      | Riverstone Distributors ) Tj
+1 0 0 1 40 476 Tm (P1016      | Air Purifier X           | Home            | 69             | 372.15     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 462 Tm (P1017      | USB-C Hub Elite          | Electronics     | 267            | 298.86     | Evergreen Merchants     ) Tj
+1 0 0 1 40 448 Tm (P1018      | Lounge Chair Pro         | Furniture       | 159            | 231.73     | Northstar Trading Co.   ) Tj
+1 0 0 1 40 434 Tm (P1019      | Smartwatch               | Electronics     | 223            | 344.62     | Evergreen Merchants     ) Tj
+1 0 0 1 40 420 Tm (P1020      | Whiteboard Marker Set    | Office Supplies | 169            | 306.11     | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 406 Tm (P1021      | Storage Cabinet          | Furniture       | 304            | 276.44     | PrimeLine Imports       ) Tj
+1 0 0 1 40 392 Tm (P1022      | Label Maker              | Office Supplies | 237            | 255.25     | Global Source Partners  ) Tj
+1 0 0 1 40 378 Tm (P1023      | USB-C Hub                | Electronics     | 338            | 439.46     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 364 Tm (P1024      | Workstation Desk Plus    | Furniture       | 216            | 172.77     | Evergreen Merchants     ) Tj
+1 0 0 1 40 350 Tm (P1025      | Sticky Notes Bundle      | Office Supplies | 165            | 216.25     | Atlas Industrial Supply ) Tj
+1 0 0 1 40 336 Tm (P1026      | LED Floor Lamp           | Home            | 247            | 38.23      | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 322 Tm (P1027      | Webcam Pro Elite         | Electronics     | 420            | 69.41      | Northstar Trading Co.   ) Tj
+1 0 0 1 40 308 Tm (P1028      | Vacuum Cleaner Mini      | Home            | 449            | 458.34     | Northstar Trading Co.   ) Tj
+1 0 0 1 40 294 Tm (P1029      | Curtain Set X            | Home            | 300            | 256.17     | Summit Wholesale Group  ) Tj
+1 0 0 1 40 280 Tm (P1030      | Notebook Pack            | Office Supplies | 184            | 423.46     | PrimeLine Imports       ) Tj
+1 0 0 1 40 266 Tm (P1031      | Bluetooth Speaker        | Electronics     | 418            | 217.41     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 252 Tm (P1032      | Wi-Fi Router             | Electronics     | 429            | 348.27     | Northstar Trading Co.   ) Tj
+1 0 0 1 40 238 Tm (P1033      | Storage Cabinet          | Furniture       | 163            | 461.16     | PrimeLine Imports       ) Tj
+1 0 0 1 40 224 Tm (P1034      | Noise Cancelling Headpho | Electronics     | 294            | 330.39     | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 210 Tm (P1035      | Ergonomic Chair Pro      | Furniture       | 115            | 191.22     | Evergreen Merchants     ) Tj
+1 0 0 1 40 196 Tm (P1036      | LED Floor Lamp Elite     | Home            | 402            | 471.00     | Crestfield Logistics    ) Tj
+1 0 0 1 40 182 Tm (P1037      | Wireless Mouse Pro       | Electronics     | 30             | 338.61     | Atlas Industrial Supply ) Tj
+1 0 0 1 40 168 Tm (P1038      | Sticky Notes Bundle Mini | Office Supplies | 217            | 140.22     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 154 Tm (P1039      | Portable SSD Elite       | Electronics     | 352            | 340.85     | Evergreen Merchants     ) Tj
+1 0 0 1 40 140 Tm (P1040      | Air Purifier Pro         | Home            | 33             | 8.81       | Atlas Industrial Supply ) Tj
+1 0 0 1 40 126 Tm (P1041      | Bookshelf                | Furniture       | 153            | 167.42     | Northstar Trading Co.   ) Tj
+1 0 0 1 40 112 Tm (P1042      | Sticky Notes Bundle Mini | Office Supplies | 277            | 353.32     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 98 Tm (P1043      | Vacuum Cleaner X         | Home            | 228            | 14.28      | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 84 Tm (P1044      | Curtain Set Mini         | Home            | 368            | 321.87     | Atlas Industrial Supply ) Tj
+1 0 0 1 40 70 Tm (P1045      | Webcam Pro Elite         | Electronics     | 92             | 401.65     | Crestfield Logistics    ) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 6676 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (P1046      | Ink Cartridge X          | Office Supplies | 129            | 220.66     | Global Source Partners  ) Tj
+1 0 0 1 40 728 Tm (P1047      | Webcam Pro               | Electronics     | 386            | 173.06     | PrimeLine Imports       ) Tj
+1 0 0 1 40 714 Tm (P1048      | Standing Desk            | Furniture       | 63             | 267.65     | Riverstone Distributors ) Tj
+1 0 0 1 40 700 Tm (P1049      | Cookware Set             | Home            | 424            | 324.49     | Summit Wholesale Group  ) Tj
+1 0 0 1 40 686 Tm (P1050      | Standing Desk Plus       | Furniture       | 93             | 303.19     | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 672 Tm (P1051      | Filing Drawer Pro        | Furniture       | 394            | 291.84     | Crestfield Logistics    ) Tj
+1 0 0 1 40 658 Tm (P1052      | Cookware Set X           | Home            | 245            | 223.89     | Atlas Industrial Supply ) Tj
+1 0 0 1 40 644 Tm (P1053      | Curtain Set Pro          | Home            | 42             | 158.65     | Evergreen Merchants     ) Tj
+1 0 0 1 40 630 Tm (P1054      | Wireless Mouse Elite     | Electronics     | 44             | 324.11     | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 616 Tm (P1055      | Binder Clips Set         | Office Supplies | 493            | 396.95     | Northstar Trading Co.   ) Tj
+1 0 0 1 40 602 Tm (P1056      | Label Maker              | Office Supplies | 169            | 304.48     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 588 Tm (P1057      | Ergonomic Chair Elite    | Furniture       | 370            | 46.74      | Summit Wholesale Group  ) Tj
+1 0 0 1 40 574 Tm (P1058      | 4K Monitor               | Electronics     | 229            | 264.41     | Crestfield Logistics    ) Tj
+1 0 0 1 40 560 Tm (P1059      | Reception Sofa Elite     | Furniture       | 203            | 207.34     | PrimeLine Imports       ) Tj
+1 0 0 1 40 546 Tm (P1060      | Portable SSD X           | Electronics     | 290            | 340.80     | Atlas Industrial Supply ) Tj
+1 0 0 1 40 532 Tm (P1061      | Curtain Set              | Home            | 175            | 45.34      | Summit Wholesale Group  ) Tj
+1 0 0 1 40 518 Tm (P1062      | Blender Max              | Home            | 362            | 332.76     | Summit Wholesale Group  ) Tj
+1 0 0 1 40 504 Tm (P1063      | Bluetooth Speaker        | Electronics     | 334            | 396.87     | Summit Wholesale Group  ) Tj
+1 0 0 1 40 490 Tm (P1064      | Webcam Pro               | Electronics     | 14             | 184.49     | Summit Wholesale Group  ) Tj
+1 0 0 1 40 476 Tm (P1065      | Reception Sofa           | Furniture       | 253            | 100.04     | Summit Wholesale Group  ) Tj
+1 0 0 1 40 462 Tm (P1066      | Standing Desk X          | Furniture       | 264            | 386.58     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 448 Tm (P1067      | Portable SSD             | Electronics     | 321            | 69.87      | Global Source Partners  ) Tj
+1 0 0 1 40 434 Tm (P1068      | Bookshelf Pro            | Furniture       | 419            | 451.81     | Evergreen Merchants     ) Tj
+1 0 0 1 40 420 Tm (P1069      | Webcam Pro Plus          | Electronics     | 232            | 307.24     | Evergreen Merchants     ) Tj
+1 0 0 1 40 406 Tm (P1070      | Coffee Table Mini        | Furniture       | 467            | 418.38     | PrimeLine Imports       ) Tj
+1 0 0 1 40 392 Tm (P1071      | Binder Clips Set         | Office Supplies | 403            | 194.03     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 378 Tm (P1072      | Stapler Pro              | Office Supplies | 415            | 304.31     | Atlas Industrial Supply ) Tj
+1 0 0 1 40 364 Tm (P1073      | Smartwatch               | Electronics     | 288            | 467.48     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 350 Tm (P1074      | Bluetooth Speaker Plus   | Electronics     | 144            | 227.41     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 336 Tm (P1075      | Workstation Desk Plus    | Furniture       | 423            | 228.31     | PrimeLine Imports       ) Tj
+1 0 0 1 40 322 Tm (P1076      | Webcam Pro Pro           | Electronics     | 196            | 121.71     | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 308 Tm (P1077      | Electric Kettle X        | Home            | 434            | 358.78     | PrimeLine Imports       ) Tj
+1 0 0 1 40 294 Tm (P1078      | Bookshelf Mini           | Furniture       | 361            | 416.40     | Evergreen Merchants     ) Tj
+1 0 0 1 40 280 Tm (P1079      | Label Maker X            | Office Supplies | 14             | 131.68     | Summit Wholesale Group  ) Tj
+1 0 0 1 40 266 Tm (P1080      | Whiteboard Marker Set    | Office Supplies | 126            | 154.07     | Northstar Trading Co.   ) Tj
+1 0 0 1 40 252 Tm (P1081      | Workstation Desk         | Furniture       | 323            | 231.27     | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 238 Tm (P1082      | Label Maker              | Office Supplies | 328            | 260.11     | Riverstone Distributors ) Tj
+1 0 0 1 40 224 Tm (P1083      | Storage Cabinet Pro      | Furniture       | 185            | 124.08     | Global Source Partners  ) Tj
+1 0 0 1 40 210 Tm (P1084      | Standing Desk            | Furniture       | 189            | 38.50      | Horizon Procurement Inc.) Tj
+1 0 0 1 40 196 Tm (P1085      | Webcam Pro               | Electronics     | 27             | 319.66     | PrimeLine Imports       ) Tj
+1 0 0 1 40 182 Tm (P1086      | Air Purifier X           | Home            | 181            | 124.36     | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 168 Tm (P1087      | LED Floor Lamp Pro       | Home            | 178            | 407.69     | Summit Wholesale Group  ) Tj
+1 0 0 1 40 154 Tm (P1088      | Binder Clips Set         | Office Supplies | 420            | 71.75      | Evergreen Merchants     ) Tj
+1 0 0 1 40 140 Tm (P1089      | Bluetooth Speaker Plus   | Electronics     | 458            | 25.74      | Atlas Industrial Supply ) Tj
+1 0 0 1 40 126 Tm (P1090      | Document Folder X        | Office Supplies | 390            | 325.22     | Atlas Industrial Supply ) Tj
+1 0 0 1 40 112 Tm (P1091      | Air Purifier             | Home            | 174            | 140.24     | PrimeLine Imports       ) Tj
+1 0 0 1 40 98 Tm (P1092      | Sticky Notes Bundle      | Office Supplies | 463            | 478.46     | PrimeLine Imports       ) Tj
+1 0 0 1 40 84 Tm (P1093      | Filing Drawer            | Furniture       | 193            | 462.53     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 70 Tm (P1094      | Vacuum Cleaner           | Home            | 45             | 218.15     | Summit Wholesale Group  ) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 6676 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (P1095      | Cookware Set Elite       | Home            | 343            | 151.34     | Evergreen Merchants     ) Tj
+1 0 0 1 40 728 Tm (P1096      | Stapler Pro              | Office Supplies | 184            | 226.33     | PrimeLine Imports       ) Tj
+1 0 0 1 40 714 Tm (P1097      | Desk Organizer           | Office Supplies | 410            | 474.21     | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 700 Tm (P1098      | Ink Cartridge            | Office Supplies | 388            | 341.31     | Northstar Trading Co.   ) Tj
+1 0 0 1 40 686 Tm (P1099      | Lounge Chair             | Furniture       | 229            | 22.23      | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 672 Tm (P1100      | Reception Sofa Pro       | Furniture       | 21             | 304.52     | Evergreen Merchants     ) Tj
+1 0 0 1 40 658 Tm (P1101      | Cookware Set X           | Home            | 298            | 73.16      | PrimeLine Imports       ) Tj
+1 0 0 1 40 644 Tm (P1102      | Ink Cartridge            | Office Supplies | 132            | 480.46     | Northstar Trading Co.   ) Tj
+1 0 0 1 40 630 Tm (P1103      | Filing Drawer            | Furniture       | 472            | 283.03     | Atlas Industrial Supply ) Tj
+1 0 0 1 40 616 Tm (P1104      | Robot Mop Pro            | Home            | 151            | 348.52     | Evergreen Merchants     ) Tj
+1 0 0 1 40 602 Tm (P1105      | Standing Desk X          | Furniture       | 236            | 90.46      | Evergreen Merchants     ) Tj
+1 0 0 1 40 588 Tm (P1106      | Portable SSD             | Electronics     | 368            | 37.14      | Horizon Procurement Inc.) Tj
+1 0 0 1 40 574 Tm (P1107      | Blender Max              | Home            | 369            | 356.23     | Summit Wholesale Group  ) Tj
+1 0 0 1 40 560 Tm (P1108      | Wall Clock Plus          | Home            | 410            | 73.74      | Evergreen Merchants     ) Tj
+1 0 0 1 40 546 Tm (P1109      | Portable SSD             | Electronics     | 193            | 236.37     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 532 Tm (P1110      | Lounge Chair             | Furniture       | 38             | 158.10     | Evergreen Merchants     ) Tj
+1 0 0 1 40 518 Tm (P1111      | Sticky Notes Bundle      | Office Supplies | 42             | 67.04      | PrimeLine Imports       ) Tj
+1 0 0 1 40 504 Tm (P1112      | Smartwatch Pro           | Electronics     | 181            | 68.53      | Horizon Procurement Inc.) Tj
+1 0 0 1 40 490 Tm (P1113      | Bookshelf X              | Furniture       | 430            | 66.46      | Summit Wholesale Group  ) Tj
+1 0 0 1 40 476 Tm (P1114      | LED Floor Lamp Plus      | Home            | 182            | 474.00     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 462 Tm (P1115      | Vacuum Cleaner Pro       | Home            | 145            | 66.96      | Atlas Industrial Supply ) Tj
+1 0 0 1 40 448 Tm (P1116      | Mechanical Keyboard      | Electronics     | 308            | 471.10     | Summit Wholesale Group  ) Tj
+1 0 0 1 40 434 Tm (P1117      | Lounge Chair             | Furniture       | 314            | 172.12     | Crestfield Logistics    ) Tj
+1 0 0 1 40 420 Tm (P1118      | Wireless Mouse Pro       | Electronics     | 140            | 327.31     | Crestfield Logistics    ) Tj
+1 0 0 1 40 406 Tm (P1119      | Label Maker              | Office Supplies | 259            | 445.05     | Horizon Procurement Inc.) Tj
+1 0 0 1 40 392 Tm (P1120      | Blender Max Mini         | Home            | 157            | 229.50     | Northstar Trading Co.   ) Tj
+1 0 0 1 40 378 Tm (P1121      | Filing Drawer Mini       | Furniture       | 109            | 173.40     | Summit Wholesale Group  ) Tj
+1 0 0 1 40 364 Tm (P1122      | Cookware Set             | Home            | 445            | 175.96     | Global Source Partners  ) Tj
+1 0 0 1 40 350 Tm (P1123      | Reception Sofa           | Furniture       | 59             | 162.96     | Evergreen Merchants     ) Tj
+1 0 0 1 40 336 Tm (P1124      | Bluetooth Speaker Plus   | Electronics     | 54             | 30.05      | Global Source Partners  ) Tj
+1 0 0 1 40 322 Tm (P1125      | Notebook Pack            | Office Supplies | 466            | 84.05      | PrimeLine Imports       ) Tj
+1 0 0 1 40 308 Tm (P1126      | Electric Kettle          | Home            | 260            | 498.00     | Evergreen Merchants     ) Tj
+1 0 0 1 40 294 Tm (P1127      | Desk Organizer X         | Office Supplies | 488            | 199.65     | Evergreen Merchants     ) Tj
+1 0 0 1 40 280 Tm (P1128      | Conference Table         | Furniture       | 29             | 30.02      | Evergreen Merchants     ) Tj
+1 0 0 1 40 266 Tm (P1129      | Desk Organizer           | Office Supplies | 438            | 58.21      | Summit Wholesale Group  ) Tj
+1 0 0 1 40 252 Tm (P1130      | Cookware Set             | Home            | 192            | 27.39      | Northstar Trading Co.   ) Tj
+1 0 0 1 40 238 Tm (P1131      | Reception Sofa           | Furniture       | 42             | 196.24     | Evergreen Merchants     ) Tj
+1 0 0 1 40 224 Tm (P1132      | Curtain Set              | Home            | 65             | 68.69      | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 210 Tm (P1133      | Ink Cartridge            | Office Supplies | 178            | 281.13     | PrimeLine Imports       ) Tj
+1 0 0 1 40 196 Tm (P1134      | Conference Table         | Furniture       | 210            | 252.54     | Northstar Trading Co.   ) Tj
+1 0 0 1 40 182 Tm (P1135      | Noise Cancelling Headpho | Electronics     | 416            | 239.50     | Evergreen Merchants     ) Tj
+1 0 0 1 40 168 Tm (P1136      | Lounge Chair             | Furniture       | 76             | 167.34     | Crestfield Logistics    ) Tj
+1 0 0 1 40 154 Tm (P1137      | LED Floor Lamp Pro       | Home            | 383            | 422.09     | Crestfield Logistics    ) Tj
+1 0 0 1 40 140 Tm (P1138      | Wall Clock               | Home            | 277            | 247.47     | Crestfield Logistics    ) Tj
+1 0 0 1 40 126 Tm (P1139      | Robot Mop                | Home            | 193            | 168.96     | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 112 Tm (P1140      | Label Maker X            | Office Supplies | 310            | 239.92     | Crestfield Logistics    ) Tj
+1 0 0 1 40 98 Tm (P1141      | Ergonomic Chair          | Furniture       | 92             | 264.50     | Crestfield Logistics    ) Tj
+1 0 0 1 40 84 Tm (P1142      | Stapler Pro              | Office Supplies | 129            | 20.63      | BluePeak Supply Ltd.    ) Tj
+1 0 0 1 40 70 Tm (P1143      | Ergonomic Chair Mini     | Furniture       | 82             | 209.42     | Riverstone Distributors ) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 967 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (P1144      | Document Folder          | Office Supplies | 476            | 238.44     | Northstar Trading Co.   ) Tj
+1 0 0 1 40 728 Tm (P1145      | Coffee Table Elite       | Furniture       | 344            | 241.79     | Global Source Partners  ) Tj
+1 0 0 1 40 714 Tm (P1146      | LED Floor Lamp Pro       | Home            | 180            | 275.41     | Atlas Industrial Supply ) Tj
+1 0 0 1 40 700 Tm (P1147      | Notebook Pack            | Office Supplies | 147            | 281.25     | Riverstone Distributors ) Tj
+1 0 0 1 40 686 Tm (P1148      | Blender Max              | Home            | 358            | 353.97     | PrimeLine Imports       ) Tj
+1 0 0 1 40 672 Tm (P1149      | Ink Cartridge            | Office Supplies | 483            | 398.73     | Atlas Industrial Supply ) Tj
+1 0 0 1 40 658 Tm (P1150      | Vacuum Cleaner           | Home            | 283            | 192.95     | Global Source Partners  ) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000142 00000 n 
+0000000210 00000 n 
+0000006739 00000 n 
+0000006865 00000 n 
+0000013593 00000 n 
+0000013719 00000 n 
+0000020447 00000 n 
+0000020573 00000 n 
+0000021592 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+21720
+%%EOF

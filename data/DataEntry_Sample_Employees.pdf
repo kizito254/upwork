@@ -1,0 +1,165 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 3 /Kids [ 5 0 R 7 0 R 9 0 R ] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+4 0 obj
+<< /Length 5672 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (Employee HR Dataset) Tj
+1 0 0 1 40 728 Tm () Tj
+1 0 0 1 40 714 Tm (Employee_ID | Employee_Name       | Department | Position                 | Hire_Date  | Salary) Tj
+1 0 0 1 40 700 Tm (------------+---------------------+------------+--------------------------+------------+-------) Tj
+1 0 0 1 40 686 Tm (E001        | Leo King            | IT         | IT Support Specialist    | 2023-04-09 | 52216 ) Tj
+1 0 0 1 40 672 Tm (E002        | Henry Moore         | Finance    | Accountant               | 2024-07-12 | 49127 ) Tj
+1 0 0 1 40 658 Tm (E003        | James Hernandez     | Marketing  | Content Strategist       | 2023-09-21 | 69289 ) Tj
+1 0 0 1 40 644 Tm (E004        | Zoey Jones          | Finance    | Accountant               | 2021-10-07 | 111924) Tj
+1 0 0 1 40 630 Tm (E005        | Hannah Hill         | Sales      | Sales Executive          | 2024-02-19 | 44021 ) Tj
+1 0 0 1 40 616 Tm (E006        | Henry Martin        | HR         | Recruiter                | 2022-09-22 | 111289) Tj
+1 0 0 1 40 602 Tm (E007        | Nora Perez          | Marketing  | Content Strategist       | 2023-10-30 | 115332) Tj
+1 0 0 1 40 588 Tm (E008        | Sebastian Rodriguez | Finance    | Accountant               | 2025-10-06 | 56326 ) Tj
+1 0 0 1 40 574 Tm (E009        | Zoey Lee            | IT         | Systems Administrator    | 2022-07-31 | 68200 ) Tj
+1 0 0 1 40 560 Tm (E010        | Wyatt Hall          | Operations | Logistics Coordinator    | 2025-06-16 | 61775 ) Tj
+1 0 0 1 40 546 Tm (E011        | Aria Harris         | Finance    | Accountant               | 2023-02-04 | 44927 ) Tj
+1 0 0 1 40 532 Tm (E012        | Leo Gonzalez        | Sales      | Business Development Rep | 2021-01-06 | 119353) Tj
+1 0 0 1 40 518 Tm (E013        | Luke Scott          | HR         | People Operations Specia | 2024-03-05 | 57479 ) Tj
+1 0 0 1 40 504 Tm (E014        | Scarlett Jackson    | Operations | Operations Manager       | 2023-08-03 | 118208) Tj
+1 0 0 1 40 490 Tm (E015        | Hannah Rodriguez    | Operations | Logistics Coordinator    | 2021-09-18 | 63119 ) Tj
+1 0 0 1 40 476 Tm (E016        | Aiden Martinez      | Operations | Logistics Coordinator    | 2023-03-25 | 39694 ) Tj
+1 0 0 1 40 462 Tm (E017        | Scarlett Hill       | Marketing  | SEO Manager              | 2023-06-30 | 100040) Tj
+1 0 0 1 40 448 Tm (E018        | Lily Hall           | Marketing  | SEO Manager              | 2019-05-31 | 77124 ) Tj
+1 0 0 1 40 434 Tm (E019        | Joseph Wright       | Sales      | Business Development Rep | 2019-12-15 | 44335 ) Tj
+1 0 0 1 40 420 Tm (E020        | Luke Thomas         | Operations | Process Analyst          | 2022-12-25 | 51802 ) Tj
+1 0 0 1 40 406 Tm (E021        | Theodore Flores     | HR         | People Operations Specia | 2023-06-25 | 73463 ) Tj
+1 0 0 1 40 392 Tm (E022        | Layla Miller        | HR         | HR Manager               | 2021-11-25 | 59098 ) Tj
+1 0 0 1 40 378 Tm (E023        | Lily Mitchell       | Sales      | Business Development Rep | 2025-07-05 | 105397) Tj
+1 0 0 1 40 364 Tm (E024        | Isabella Lewis      | Finance    | Accountant               | 2024-03-11 | 119070) Tj
+1 0 0 1 40 350 Tm (E025        | Mateo Hall          | Sales      | Sales Executive          | 2022-11-13 | 33219 ) Tj
+1 0 0 1 40 336 Tm (E026        | Zoey Miller         | Finance    | Accountant               | 2019-12-18 | 45213 ) Tj
+1 0 0 1 40 322 Tm (E027        | David Martinez      | Finance    | Accountant               | 2022-11-06 | 89681 ) Tj
+1 0 0 1 40 308 Tm (E028        | Sophia King         | Marketing  | Content Strategist       | 2024-05-04 | 42795 ) Tj
+1 0 0 1 40 294 Tm (E029        | Scarlett Campbell   | Operations | Logistics Coordinator    | 2022-07-30 | 38804 ) Tj
+1 0 0 1 40 280 Tm (E030        | Abigail Williams    | Operations | Operations Manager       | 2019-04-03 | 74967 ) Tj
+1 0 0 1 40 266 Tm (E031        | Theodore Miller     | Operations | Operations Manager       | 2021-09-26 | 97632 ) Tj
+1 0 0 1 40 252 Tm (E032        | Olivia Scott        | IT         | Systems Administrator    | 2025-04-12 | 85885 ) Tj
+1 0 0 1 40 238 Tm (E033        | Victoria Anderson   | Marketing  | SEO Manager              | 2021-01-25 | 54430 ) Tj
+1 0 0 1 40 224 Tm (E034        | Owen Nelson         | Marketing  | Content Strategist       | 2019-04-30 | 110492) Tj
+1 0 0 1 40 210 Tm (E035        | Ava Lewis           | Sales      | Account Manager          | 2023-05-12 | 30583 ) Tj
+1 0 0 1 40 196 Tm (E036        | John Wilson         | IT         | Systems Administrator    | 2019-09-14 | 105674) Tj
+1 0 0 1 40 182 Tm (E037        | Benjamin Wright     | IT         | Systems Administrator    | 2022-08-28 | 55830 ) Tj
+1 0 0 1 40 168 Tm (E038        | Victoria Davis      | Finance    | Finance Manager          | 2024-06-27 | 99168 ) Tj
+1 0 0 1 40 154 Tm (E039        | Owen Lee            | Sales      | Account Manager          | 2025-11-08 | 81451 ) Tj
+1 0 0 1 40 140 Tm (E040        | Mateo Davis         | Finance    | Accountant               | 2024-02-19 | 110918) Tj
+1 0 0 1 40 126 Tm (E041        | Olivia Baker        | Operations | Logistics Coordinator    | 2025-11-21 | 107354) Tj
+1 0 0 1 40 112 Tm (E042        | William Baker       | IT         | Systems Administrator    | 2020-04-27 | 61270 ) Tj
+1 0 0 1 40 98 Tm (E043        | Abigail Davis       | IT         | Systems Administrator    | 2020-08-02 | 96954 ) Tj
+1 0 0 1 40 84 Tm (E044        | Nora Clark          | Sales      | Sales Executive          | 2025-06-12 | 80293 ) Tj
+1 0 0 1 40 70 Tm (E045        | Layla Lopez         | Marketing  | SEO Manager              | 2025-01-10 | 114575) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 5843 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (E046        | Olivia Scott        | IT         | Systems Administrator    | 2022-03-29 | 48388 ) Tj
+1 0 0 1 40 728 Tm (E047        | Olivia Lee          | Marketing  | SEO Manager              | 2019-08-08 | 77059 ) Tj
+1 0 0 1 40 714 Tm (E048        | Liam Young          | IT         | Software Engineer        | 2023-04-22 | 103607) Tj
+1 0 0 1 40 700 Tm (E049        | Lily Adams          | Marketing  | Content Strategist       | 2024-07-07 | 84477 ) Tj
+1 0 0 1 40 686 Tm (E050        | John Lewis          | Marketing  | Marketing Specialist     | 2019-12-05 | 104107) Tj
+1 0 0 1 40 672 Tm (E051        | Noah Carter         | IT         | Systems Administrator    | 2019-05-14 | 66025 ) Tj
+1 0 0 1 40 658 Tm (E052        | Isabella Wright     | Finance    | Financial Analyst        | 2024-02-17 | 104140) Tj
+1 0 0 1 40 644 Tm (E053        | Wyatt Roberts       | Marketing  | SEO Manager              | 2024-09-23 | 44838 ) Tj
+1 0 0 1 40 630 Tm (E054        | Leo Davis           | Finance    | Finance Manager          | 2023-02-11 | 101046) Tj
+1 0 0 1 40 616 Tm (E055        | Matthew Williams    | Operations | Logistics Coordinator    | 2025-02-15 | 58644 ) Tj
+1 0 0 1 40 602 Tm (E056        | Layla Miller        | Operations | Process Analyst          | 2021-10-10 | 69021 ) Tj
+1 0 0 1 40 588 Tm (E057        | Oliver Lewis        | Finance    | Accountant               | 2019-12-23 | 87549 ) Tj
+1 0 0 1 40 574 Tm (E058        | Lucas Roberts       | IT         | Software Engineer        | 2025-08-05 | 75957 ) Tj
+1 0 0 1 40 560 Tm (E059        | John Flores         | Operations | Logistics Coordinator    | 2020-11-10 | 110760) Tj
+1 0 0 1 40 546 Tm (E060        | Henry Wilson        | IT         | Software Engineer        | 2025-05-24 | 75982 ) Tj
+1 0 0 1 40 532 Tm (E061        | Chloe Moore         | Sales      | Business Development Rep | 2020-11-20 | 72421 ) Tj
+1 0 0 1 40 518 Tm (E062        | John Jackson        | Finance    | Finance Manager          | 2021-12-31 | 97425 ) Tj
+1 0 0 1 40 504 Tm (E063        | Samuel Miller       | IT         | Systems Administrator    | 2019-08-31 | 66349 ) Tj
+1 0 0 1 40 490 Tm (E064        | Theodore Rodriguez  | Operations | Operations Manager       | 2021-10-19 | 49168 ) Tj
+1 0 0 1 40 476 Tm (E065        | John Lee            | IT         | IT Support Specialist    | 2023-05-28 | 94154 ) Tj
+1 0 0 1 40 462 Tm (E066        | Alexander Torres    | Operations | Logistics Coordinator    | 2023-08-24 | 79174 ) Tj
+1 0 0 1 40 448 Tm (E067        | Scarlett Jones      | Operations | Operations Manager       | 2023-07-09 | 97582 ) Tj
+1 0 0 1 40 434 Tm (E068        | Wyatt Moore         | Operations | Logistics Coordinator    | 2024-02-06 | 93968 ) Tj
+1 0 0 1 40 420 Tm (E069        | Aria Nguyen         | HR         | People Operations Specia | 2020-01-17 | 90089 ) Tj
+1 0 0 1 40 406 Tm (E070        | Owen Nelson         | Operations | Logistics Coordinator    | 2019-09-17 | 100048) Tj
+1 0 0 1 40 392 Tm (E071        | Sofia Wilson        | Marketing  | Marketing Specialist     | 2024-07-19 | 65197 ) Tj
+1 0 0 1 40 378 Tm (E072        | Aria Jackson        | Finance    | Finance Manager          | 2025-06-25 | 47117 ) Tj
+1 0 0 1 40 364 Tm (E073        | Leo Young           | Finance    | Finance Manager          | 2019-07-18 | 36021 ) Tj
+1 0 0 1 40 350 Tm (E074        | Benjamin Green      | Marketing  | Marketing Specialist     | 2020-05-23 | 50707 ) Tj
+1 0 0 1 40 336 Tm (E075        | Scarlett Robinson   | HR         | Recruiter                | 2021-04-08 | 47290 ) Tj
+1 0 0 1 40 322 Tm (E076        | Theodore Martin     | IT         | Systems Administrator    | 2020-01-18 | 115798) Tj
+1 0 0 1 40 308 Tm (E077        | Ella Taylor         | HR         | Recruiter                | 2020-11-08 | 36787 ) Tj
+1 0 0 1 40 294 Tm (E078        | Sofia Green         | Finance    | Finance Manager          | 2021-08-17 | 86260 ) Tj
+1 0 0 1 40 280 Tm (E079        | Theodore Garcia     | Operations | Operations Manager       | 2019-01-05 | 57973 ) Tj
+1 0 0 1 40 266 Tm (E080        | Zoey Jones          | IT         | IT Support Specialist    | 2021-07-15 | 98084 ) Tj
+1 0 0 1 40 252 Tm (E081        | Samuel Lewis        | HR         | HR Manager               | 2022-11-08 | 45806 ) Tj
+1 0 0 1 40 238 Tm (E082        | Layla Hall          | IT         | Systems Administrator    | 2019-10-18 | 60008 ) Tj
+1 0 0 1 40 224 Tm (E083        | Nora Garcia         | Operations | Operations Manager       | 2020-02-27 | 71071 ) Tj
+1 0 0 1 40 210 Tm (E084        | Ella Martin         | IT         | Systems Administrator    | 2020-06-29 | 114092) Tj
+1 0 0 1 40 196 Tm (E085        | Samuel Martinez     | HR         | People Operations Specia | 2025-04-26 | 31110 ) Tj
+1 0 0 1 40 182 Tm (E086        | Jack Adams          | IT         | Systems Administrator    | 2022-12-09 | 57925 ) Tj
+1 0 0 1 40 168 Tm (E087        | Owen Mitchell       | IT         | Systems Administrator    | 2025-11-28 | 119989) Tj
+1 0 0 1 40 154 Tm (E088        | Scarlett Wilson     | HR         | HR Manager               | 2020-07-27 | 46142 ) Tj
+1 0 0 1 40 140 Tm (E089        | Mateo Campbell      | Marketing  | Content Strategist       | 2023-10-25 | 71222 ) Tj
+1 0 0 1 40 126 Tm (E090        | Henry Thomas        | Finance    | Finance Manager          | 2019-12-12 | 62527 ) Tj
+1 0 0 1 40 112 Tm (E091        | Stella Hill         | Sales      | Business Development Rep | 2025-10-24 | 67345 ) Tj
+1 0 0 1 40 98 Tm (E092        | Luke Hall           | HR         | People Operations Specia | 2022-05-20 | 56928 ) Tj
+1 0 0 1 40 84 Tm (E093        | Grace Hill          | Sales      | Sales Executive          | 2023-05-24 | 68737 ) Tj
+1 0 0 1 40 70 Tm (E094        | Theodore Brown      | IT         | Systems Administrator    | 2023-04-30 | 44777 ) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 729 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 40 742 Tm (E095        | Mia Young           | Operations | Process Analyst          | 2019-10-18 | 99243 ) Tj
+1 0 0 1 40 728 Tm (E096        | Liam White          | Finance    | Financial Analyst        | 2023-05-04 | 104498) Tj
+1 0 0 1 40 714 Tm (E097        | Camila White        | Sales      | Business Development Rep | 2020-12-08 | 91736 ) Tj
+1 0 0 1 40 700 Tm (E098        | Luke Jones          | HR         | People Operations Specia | 2019-10-04 | 31807 ) Tj
+1 0 0 1 40 686 Tm (E099        | Amelia Wilson       | HR         | HR Manager               | 2023-06-19 | 96402 ) Tj
+1 0 0 1 40 672 Tm (E100        | Evelyn Green        | Operations | Process Analyst          | 2023-08-29 | 85518 ) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000135 00000 n 
+0000000203 00000 n 
+0000005927 00000 n 
+0000006053 00000 n 
+0000011948 00000 n 
+0000012074 00000 n 
+0000012854 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+12980
+%%EOF
